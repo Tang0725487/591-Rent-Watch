@@ -1,7 +1,29 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-07-04 21:57:56 CST",
+  "last_checked": "2026-07-05 00:13:06 CST",
   "listings": [
+    {
+      "id": "21578330",
+      "link": "https://rent.591.com.tw/21578330",
+      "title": "文德站/自己的陽台獨立洗衣/生活機能超佳",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "5F/5F",
+      "rent": "$14,500/月",
+      "address": "內湖區-星雲街15巷18弄",
+      "updated": "2小時內"
+    },
+    {
+      "id": "21578114",
+      "link": "https://rent.591.com.tw/21578114",
+      "title": "內湖站🌸技能方便🌸採光通風🌸寧靜套房🌸拎包入",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "5F/5F",
+      "rent": "$14,500/月",
+      "address": "內湖區-金湖路",
+      "updated": "2小時內"
+    },
     {
       "id": "21572815",
       "link": "https://rent.591.com.tw/21572815",
@@ -9,9 +31,9 @@
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "5F/5F",
-      "rent": "$10,800",
-      "address": "環山路二段",
-      "updated": "24小時內"
+      "rent": "$10,800/月",
+      "address": "內湖區-環山路二段",
+      "updated": "2天前"
     },
     {
       "id": "21570724",
@@ -20,31 +42,31 @@
       "room_type": "獨立套房",
       "size": "11坪",
       "floor": "1F/5F",
-      "rent": "$11,000",
-      "address": "研究院路二段2巷54弄11號",
-      "updated": "10小時內"
+      "rent": "$11,000/月",
+      "address": "南港區-研究院路二段2巷54弄11號",
+      "updated": "9分鐘內"
     },
     {
       "id": "21569598",
       "link": "https://rent.591.com.tw/21569598",
-      "title": "小資女最愛，低樓層,電子鎖門禁管理。",
+      "title": "小資女最愛，低樓層,電子鎖門禁管理",
       "room_type": "獨立套房",
       "size": "10坪",
       "floor": "2F/5F",
-      "rent": "$15,000",
-      "address": "文德路246號",
-      "updated": "昨日"
+      "rent": "$15,000/月",
+      "address": "內湖區-文德路246號",
+      "updated": "2天前"
     },
     {
       "id": "21560762",
       "link": "https://rent.591.com.tw/21560762",
-      "title": "近捷運內湖、翡翠城／新裝潢套房。",
+      "title": "近捷運內湖、翡翠城／新裝潢套房。獨立陽台/洗衣。流理台",
       "room_type": "獨立套房",
       "size": "8.9坪",
       "floor": "1F/5F",
-      "rent": "$14,499",
-      "address": "內湖路三段",
-      "updated": "9小時內"
+      "rent": "$14,499/月",
+      "address": "內湖區-內湖路三段",
+      "updated": "11小時內"
     },
     {
       "id": "21560373",
@@ -53,31 +75,31 @@
       "room_type": "獨立套房",
       "size": "10坪",
       "floor": "2F/2F",
-      "rent": "$11,000",
-      "address": "研究院路三段",
-      "updated": "6小時內"
+      "rent": "$11,000/月",
+      "address": "南港區-研究院路三段",
+      "updated": "8小時內"
     },
     {
       "id": "21556229",
       "link": "https://rent.591.com.tw/21556229",
-      "title": "近內湖站10分鐘秒殺獨套",
+      "title": "近內湖站10分鐘秒殺獨套@台水電計價@開伙空間@獨洗曬",
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "1F/5F",
-      "rent": "$14,999",
-      "address": "內湖路三段",
-      "updated": "11小時內"
+      "rent": "$14,999/月",
+      "address": "內湖區-內湖路三段",
+      "updated": "13小時內"
     },
     {
       "id": "21551893",
       "link": "https://rent.591.com.tw/21551893",
-      "title": "地段棒.近捷運站.生活機能超優",
+      "title": "地段棒.近捷運站.生活機能超優.巷內安靜",
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "3F/4F",
-      "rent": "$15,000",
-      "address": "內湖路一段437巷4弄6號",
-      "updated": "2小時內"
+      "rent": "$15,000/月",
+      "address": "內湖區-內湖路一段437巷4弄6號",
+      "updated": "5小時內"
     },
     {
       "id": "21537022",
@@ -86,75 +108,64 @@
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "1F/1F",
-      "rent": "$15,000",
-      "address": "玉成街45巷3號",
+      "rent": "$15,000/月",
+      "address": "南港區-玉成街45巷3號",
       "updated": "5天前"
     },
     {
       "id": "21524882",
       "link": "https://rent.591.com.tw/21524882",
-      "title": "近捷運內湖、翡翠城／新裝潢套房。",
+      "title": "近捷運內湖、翡翠城／新裝潢套房。獨立陽台/洗衣。流理台",
       "room_type": "獨立套房",
       "size": "8.9坪",
       "floor": "1F/5F",
-      "rent": "$14,995",
-      "address": "內湖路三段",
-      "updated": "9小時內"
+      "rent": "$14,995/月",
+      "address": "內湖區-內湖路三段",
+      "updated": "11小時內"
     },
     {
       "id": "21529538",
       "link": "https://rent.591.com.tw/21529538",
-      "title": "近美國在台協會／電梯租案。",
+      "title": "近美國在台協會／電梯租案。收包裹/垃圾",
       "room_type": "獨立套房",
       "size": "10坪",
       "floor": "19F/21F",
-      "rent": "$15,998",
-      "address": "星雲街/金湖路",
-      "updated": "9小時內"
+      "rent": "$15,998/月",
+      "address": "內湖區-星雲街168巷",
+      "updated": "11小時內"
     },
     {
       "id": "21536438",
       "link": "https://rent.591.com.tw/21536438",
-      "title": "近內湖捷運双人美套房",
+      "title": "近內湖捷運双人美套房/獨立洗衣機双人沙發",
       "room_type": "獨立套房",
       "size": "9坪",
       "floor": "5F/5F",
-      "rent": "$14,800",
-      "address": "金龍路",
-      "updated": "昨日"
+      "rent": "$14,800/月",
+      "address": "內湖區-金龍路",
+      "updated": "2天前"
     },
     {
       "id": "21533369",
       "link": "https://rent.591.com.tw/21533369",
-      "title": "近捷運內湖【優質租案】警衛管理",
+      "title": "近捷運內湖【優質租案】警衛管理★垃圾代收★大面採光",
       "room_type": "獨立套房",
       "size": "9坪",
       "floor": "19F/21F",
-      "rent": "$15,999",
-      "address": "星雲街",
-      "updated": "昨日"
-    },
-    {
-      "id": "21532276",
-      "link": "https://rent.591.com.tw/21532276",
-      "title": "時尚裝潢~獨立洗衣代收垃圾",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "1F/2F",
-      "rent": "$14,000",
-      "address": "新明路219巷1弄",
-      "updated": "8小時內"
+      "rent": "$15,999/月",
+      "address": "內湖區-星雲街",
+      "updated": "2天前"
     },
     {
       "id": "21525863",
       "link": "https://rent.591.com.tw/21525863",
-      "title": "捷運內湖站★坪數大★有管理員",
+      "title": "捷運內湖站★坪數大★有管理員★代收垃圾包裏",
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "5F/5F",
-      "rent": "$13,800",
-      "address": "金湖路",
-      "updated": "4小時內"
+      "rent": "$13,800/月",
+      "address": "內湖區-金湖路",
+      "updated": "2小時內"
     },
     {
       "id": "21522766",
@@ -163,42 +174,42 @@
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "3F/3F",
-      "rent": "$12,500",
-      "address": "中坡南路",
-      "updated": "2小時內"
+      "rent": "$12,500/月",
+      "address": "南港區-中坡南路",
+      "updated": "9分鐘內"
     },
     {
       "id": "21498866",
       "link": "https://rent.591.com.tw/21498866",
-      "title": "金龍隧道/臨內湖站、新裝潢",
+      "title": "金龍隧道/臨內湖站、新裝潢、低樓層、獨洗曬、大空間、機能強",
       "room_type": "獨立套房",
       "size": "9坪",
       "floor": "1F/5F",
-      "rent": "$14,994",
-      "address": "內湖路三段",
-      "updated": "昨日"
+      "rent": "$14,994/月",
+      "address": "內湖區-內湖路三段",
+      "updated": "2天前"
     },
     {
       "id": "21491057",
       "link": "https://rent.591.com.tw/21491057",
-      "title": "獨立套房_昆陽捷運南軟內科",
+      "title": "獨立套房_昆陽捷運南軟內科汐科南港中研院",
       "room_type": "獨立套房",
       "size": "10坪",
       "floor": "3F/4F",
-      "rent": "$9,990",
-      "address": "南港路三段80巷",
-      "updated": "2小時內"
+      "rent": "$9,990/月",
+      "address": "南港區-南港路三段80巷",
+      "updated": "9分鐘內"
     },
     {
       "id": "21489742",
       "link": "https://rent.591.com.tw/21489742",
-      "title": "內湖🚝台電⚡️陽台獨洗曬",
+      "title": "內湖🚝台電⚡️陽台獨洗曬✔️空間寬敞/拎包入住✅",
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "1F/5F",
-      "rent": "$15,000",
-      "address": "內湖路三段",
-      "updated": "8小時內"
+      "rent": "$15,000/月",
+      "address": "內湖區-內湖路三段",
+      "updated": "10小時內"
     },
     {
       "id": "21485192",
@@ -207,41 +218,41 @@
       "room_type": "獨立套房",
       "size": "10坪",
       "floor": "1F/2F",
-      "rent": "$12,000",
-      "address": "研究院路三段",
-      "updated": "6小時內"
+      "rent": "$12,000/月",
+      "address": "南港區-研究院路三段",
+      "updated": "8小時內"
     },
     {
       "id": "21482891",
       "link": "https://rent.591.com.tw/21482891",
-      "title": "✅歡迎立即預約7/8起看屋",
+      "title": "✅歡迎立即預約7/8起看屋✅超大採光✅展覽館捷運✅獨洗台電",
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "3F/5F",
-      "rent": "$13,888",
-      "address": "橫科路52巷9弄",
+      "rent": "$13,888/月",
+      "address": "南港區-橫科路52巷9弄",
       "updated": "2小時內"
     },
     {
       "id": "21468585",
       "link": "https://rent.591.com.tw/21468585",
-      "title": "內湖捷運站5分鐘，絶佳套房出租",
+      "title": "內湖捷運站5分鐘，絶佳套房出租（附傢電）",
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "5F/5F",
-      "rent": "$13,800",
-      "address": "金湖路16號",
+      "rent": "$13,800/月",
+      "address": "內湖區-金湖路16號",
       "updated": "8天前"
     },
     {
       "id": "21454779",
       "link": "https://rent.591.com.tw/21454779",
-      "title": "東湖套房高檔溫馨裝潢有陽台",
+      "title": "東湖套房高檔溫馨裝潢有陽台有洗衣機",
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "5F/5F",
-      "rent": "$10,000",
-      "address": "東湖路113巷49弄",
+      "rent": "$10,000/月",
+      "address": "內湖區-東湖路113巷49弄",
       "updated": "3天前"
     },
     {
@@ -251,30 +262,30 @@
       "room_type": "獨立套房",
       "size": "12坪",
       "floor": "2F/7F",
-      "rent": "$2,000",
-      "address": "興南街64巷6弄1號",
+      "rent": "$2,000/月",
+      "address": "南港區-興南街64巷6弄1號",
       "updated": "20天前"
     },
     {
       "id": "21424545",
       "link": "https://rent.591.com.tw/21424545",
-      "title": "近內科世外桃園1樓獨立門戶",
+      "title": "近內科世外桃園1樓獨立門戶傢俱全-有廚房",
       "room_type": "獨立套房",
       "size": "12坪",
       "floor": "1F/5F",
-      "rent": "$9,000",
-      "address": "內湖路一段47巷",
+      "rent": "$9,000/月",
+      "address": "內湖區-內湖路一段47巷",
       "updated": "26天前"
     },
     {
       "id": "21417698",
       "link": "https://rent.591.com.tw/21417698",
-      "title": "套房出租近三民國中(對面靜巷)",
+      "title": "套房出租近三民國中(對面靜巷)5摟頂加",
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "5F/5F",
-      "rent": "$11,000",
-      "address": "民權東路六段90巷",
+      "rent": "$11,000/月",
+      "address": "內湖區-民權東路六段90巷",
       "updated": "27天前"
     },
     {
@@ -284,9 +295,9 @@
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "5F/5F",
-      "rent": "$13,500",
-      "address": "星雲街",
-      "updated": "7小時內"
+      "rent": "$13,500/月",
+      "address": "內湖區-星雲街",
+      "updated": "10小時內"
     }
   ]
 }
