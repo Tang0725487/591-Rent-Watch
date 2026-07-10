@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-07-10 16:09:01 CST",
+  "last_checked": "2026-07-10 20:23:01 CST",
   "listings": [
+    {
+      "id": "21614908",
+      "link": "https://rent.591.com.tw/21614908",
+      "title": "南港優質套房",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "1F/4F",
+      "rent": "$12,000/月",
+      "address": "南港區-富康街53巷",
+      "updated": "23分鐘內更新"
+    },
     {
       "id": "21608969",
       "link": "https://rent.591.com.tw/21608969",
@@ -232,17 +243,6 @@
       "rent": "$9,990/月",
       "address": "南港區-南港路三段80巷",
       "updated": "9分鐘內更新"
-    },
-    {
-      "id": "21489742",
-      "link": "https://rent.591.com.tw/21489742",
-      "title": "內湖🚝台電⚡️陽台獨洗曬✔️空間寬敞/拎包入住✅",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "1F/5F",
-      "rent": "$15,000/月",
-      "address": "內湖區-內湖路三段",
-      "updated": "昨日更新"
     },
     {
       "id": "21484369",
