@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-07-09 20:21:59 CST",
+  "last_checked": "2026-07-10 08:11:15 CST",
   "listings": [
     {
       "id": "21585387",
@@ -11,7 +11,7 @@
       "floor": "2F/5F",
       "rent": "$10,500/月",
       "address": "中壢區-內定二十街185巷",
-      "updated": "11小時內更新"
+      "updated": "23小時內更新"
     },
     {
       "id": "21559750",
@@ -66,7 +66,7 @@
       "floor": "4F/5F",
       "rent": "$8,500/月",
       "address": "中壢區-高鐵北路二段",
-      "updated": "15小時內更新"
+      "updated": "4小時內更新"
     }
   ]
 }
