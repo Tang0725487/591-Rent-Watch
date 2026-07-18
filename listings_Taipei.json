@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-07-18 16:10:31 CST",
+  "last_checked": "2026-07-18 20:10:31 CST",
   "listings": [
+    {
+      "id": "21661926",
+      "link": "https://rent.591.com.tw/21661926",
+      "title": "國家生技園區和中研院套房",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "rent": "$13,000/月",
+      "address": "南港區-研究院路二段2巷",
+      "updated": "11分鐘內更新"
+    },
     {
       "id": "21658786",
       "link": "https://rent.591.com.tw/21658786",
