@@ -1,7 +1,29 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-07-19 16:08:55 CST",
+  "last_checked": "2026-07-19 20:11:11 CST",
   "listings": [
+    {
+      "id": "21666001",
+      "link": "https://rent.591.com.tw/21666001",
+      "title": "內科之星城市光點😃歡迎長短租😀1級變頻冷暖氣😊寵物樂園",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "rent": "$15,000/月",
+      "address": "內湖區-麗山街338巷",
+      "updated": "25分鐘內更新"
+    },
+    {
+      "id": "21665763",
+      "link": "https://rent.591.com.tw/21665763",
+      "title": "捷運東湖／超值租案。獨立陽台/洗衣。收垃圾。飲水機",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "5F/5F",
+      "rent": "$12,999/月",
+      "address": "內湖區-康寧路三段189巷",
+      "updated": "4小時內更新"
+    },
     {
       "id": "21661926",
       "link": "https://rent.591.com.tw/21661926",
