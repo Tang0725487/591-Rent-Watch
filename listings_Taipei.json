@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-07-25 08:10:25 CST",
+  "last_checked": "2026-07-25 12:08:54 CST",
   "listings": [
+    {
+      "id": "21701519",
+      "link": "https://rent.591.com.tw/21701519",
+      "title": "[高優質套房]近後山埤捷運,頂好,711",
+      "room_type": "獨立套房",
+      "size": "10坪",
+      "floor": "2F/2F",
+      "rent": "$13,000/月",
+      "address": "南港區-成福路121巷",
+      "updated": "4小時內更新"
+    },
     {
       "id": "21695853",
       "link": "https://rent.591.com.tw/21695853",
