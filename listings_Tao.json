@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-07-26 08:11:53 CST",
+  "last_checked": "2026-07-26 12:13:27 CST",
   "listings": [
     {
       "id": "21702466",
@@ -11,7 +11,7 @@
       "floor": "2F/4F",
       "rent": "$8,500/月",
       "address": "中壢區-致祥一街238巷23號",
-      "updated": "20小時內更新"
+      "updated": "24小時內更新"
     },
     {
       "id": "21694977",
@@ -22,7 +22,7 @@
       "floor": "4F/5F",
       "rent": "$8,500/月",
       "address": "中壢區-高鐵北路二段",
-      "updated": "38分鐘內更新"
+      "updated": "5小時內更新"
     },
     {
       "id": "21614446",
@@ -30,7 +30,7 @@
       "title": "青商路室內平面停車位上城捷境車牌辨識",
       "room_type": "車位",
       "size": "9坪",
-      "floor": "-",
+      "floor": "",
       "rent": "$2,600/月",
       "address": "中壢區-青商路7號",
       "updated": "16天前更新"
@@ -44,7 +44,7 @@
       "floor": "5F/5F",
       "rent": "$10,000/月",
       "address": "中壢區-民權路四段",
-      "updated": "24天前更新"
+      "updated": "25天前更新"
     },
     {
       "id": "21556193",
