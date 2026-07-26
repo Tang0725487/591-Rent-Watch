@@ -1,18 +1,7 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-07-26 12:13:27 CST",
+  "last_checked": "2026-07-26 16:09:55 CST",
   "listings": [
-    {
-      "id": "21702466",
-      "link": "https://rent.591.com.tw/21702466",
-      "title": "禁菸(含室內機車停車)高鐵桃園站200公尺",
-      "room_type": "獨立套房",
-      "size": "9坪",
-      "floor": "2F/4F",
-      "rent": "$8,500/月",
-      "address": "中壢區-致祥一街238巷23號",
-      "updated": "24小時內更新"
-    },
     {
       "id": "21694977",
       "link": "https://rent.591.com.tw/21694977",
@@ -22,7 +11,7 @@
       "floor": "4F/5F",
       "rent": "$8,500/月",
       "address": "中壢區-高鐵北路二段",
-      "updated": "5小時內更新"
+      "updated": "9小時內更新"
     },
     {
       "id": "21614446",
@@ -33,7 +22,7 @@
       "floor": "",
       "rent": "$2,600/月",
       "address": "中壢區-青商路7號",
-      "updated": "16天前更新"
+      "updated": "17天前更新"
     },
     {
       "id": "21559750",
