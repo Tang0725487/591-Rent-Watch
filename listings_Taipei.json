@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-07-26 12:13:27 CST",
+  "last_checked": "2026-07-27 08:14:56 CST",
   "listings": [
+    {
+      "id": "21708848",
+      "link": "https://rent.591.com.tw/21708848",
+      "title": "山妍四季城市光點",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "rent": "$15,000/月",
+      "address": "內湖區-麗山街338巷",
+      "updated": "9小時內更新"
+    },
     {
       "id": "21706251",
       "link": "https://rent.591.com.tw/21706251",
@@ -102,17 +113,6 @@
       "updated": "5天前更新"
     },
     {
-      "id": "21677120",
-      "link": "https://rent.591.com.tw/21677120",
-      "title": "捷運昆陽🌸獨洗獨陽台🌸採光通風🌸水泥隔間🌸機能便利",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "5F/5F",
-      "rent": "$13,000/月",
-      "address": "南港區-南港路三段16巷1弄",
-      "updated": "7小時內更新"
-    },
-    {
       "id": "21658786",
       "link": "https://rent.591.com.tw/21658786",
       "title": "內湖捷運站5分鐘，絶佳套房出租（附傢電）",
@@ -210,17 +210,6 @@
       "rent": "$16,000/月",
       "address": "內湖區-星雲街168巷",
       "updated": "14小時內更新"
-    },
-    {
-      "id": "21525863",
-      "link": "https://rent.591.com.tw/21525863",
-      "title": "捷運內湖站★坪數大★有管理員★代收垃圾包裏",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "5F/5F",
-      "rent": "$13,800/月",
-      "address": "內湖區-金湖路",
-      "updated": "2小時內更新"
     },
     {
       "id": "21417698",
