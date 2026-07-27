@@ -1,7 +1,29 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-07-27 12:09:37 CST",
+  "last_checked": "2026-07-27 16:13:31 CST",
   "listings": [
+    {
+      "id": "21713894",
+      "link": "https://rent.591.com.tw/21713894",
+      "title": "捷運內湖站★坪數大★有管理員★代收垃圾包裏",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "5F/5F",
+      "rent": "$13,800/月",
+      "address": "內湖區-金湖路",
+      "updated": "50分鐘內更新"
+    },
+    {
+      "id": "21713008",
+      "link": "https://rent.591.com.tw/21713008",
+      "title": "近南港路三段2F漂亮裝潢套房.近昆陽站",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "2F/4F",
+      "rent": "$11,800/月",
+      "address": "南港區-成功路一段",
+      "updated": "55分鐘內更新"
+    },
     {
       "id": "21430323",
       "link": "https://rent.591.com.tw/21430323",
