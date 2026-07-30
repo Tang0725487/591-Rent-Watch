@@ -1,17 +1,17 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-07-30 12:09:53 CST",
+  "last_checked": "2026-07-30 16:12:45 CST",
   "listings": [
     {
-      "id": "21694977",
-      "link": "https://rent.591.com.tw/21694977",
-      "title": "緊臨高鐵及捷運站",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "4F/5F",
-      "rent": "$8,500/月",
-      "address": "中壢區-高鐵北路二段",
-      "updated": "6小時內更新"
+      "id": "21732981",
+      "link": "https://rent.591.com.tw/21732981",
+      "title": "青埔高鐵臨新光影城水族館景觀套房",
+      "room_type": "分租套房",
+      "size": "8.5坪",
+      "floor": "4F/6F",
+      "rent": "$9,500/月",
+      "address": "中壢區-民權路五段",
+      "updated": "2小時內更新"
     },
     {
       "id": "21614446",
@@ -22,7 +22,7 @@
       "floor": "",
       "rent": "$2,600/月",
       "address": "中壢區-青商路7號",
-      "updated": "20天前更新"
+      "updated": "21天前更新"
     },
     {
       "id": "21559750",
