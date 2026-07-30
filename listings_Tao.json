@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-07-30 16:12:45 CST",
+  "last_checked": "2026-07-30 20:16:22 CST",
   "listings": [
     {
       "id": "21732981",
@@ -11,7 +11,18 @@
       "floor": "4F/6F",
       "rent": "$9,500/月",
       "address": "中壢區-民權路五段",
-      "updated": "2小時內更新"
+      "updated": "6小時內更新"
+    },
+    {
+      "id": "21694977",
+      "link": "https://rent.591.com.tw/21694977",
+      "title": "緊臨高鐵及捷運站",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "rent": "$8,500/月",
+      "address": "中壢區-高鐵北路二段",
+      "updated": "14小時內更新"
     },
     {
       "id": "21614446",
@@ -44,7 +55,7 @@
       "floor": "4F/4F",
       "rent": "$12,000/月",
       "address": "大園區-青埔路二段",
-      "updated": "28天前更新"
+      "updated": "29天前更新"
     },
     {
       "id": "21556185",
@@ -55,18 +66,7 @@
       "floor": "4F/4F",
       "rent": "$12,000/月",
       "address": "大園區-青埔路二段",
-      "updated": "28天前更新"
-    },
-    {
-      "id": "21548529",
-      "link": "https://rent.591.com.tw/21548529",
-      "title": "屋主自租!限女性!近青埔優質大套房",
-      "room_type": "分租套房",
-      "size": "8.5坪",
-      "floor": "2F/3F",
-      "rent": "$12,000/月",
-      "address": "中壢區-新生路三段492巷",
-      "updated": "18天前更新"
+      "updated": "29天前更新"
     }
   ]
 }
