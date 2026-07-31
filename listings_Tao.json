@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-07-31 08:11:08 CST",
+  "last_checked": "2026-07-31 12:10:47 CST",
   "listings": [
     {
       "id": "21732981",
@@ -11,7 +11,7 @@
       "floor": "4F/6F",
       "rent": "$9,500/月",
       "address": "中壢區-民權路五段",
-      "updated": "18小時內更新"
+      "updated": "3小時內更新"
     },
     {
       "id": "21694977",
@@ -22,7 +22,7 @@
       "floor": "4F/5F",
       "rent": "$8,500/月",
       "address": "中壢區-高鐵北路二段",
-      "updated": "4小時內更新"
+      "updated": "8小時內更新"
     },
     {
       "id": "21614446",
@@ -44,24 +44,13 @@
       "floor": "5F/5F",
       "rent": "$10,000/月",
       "address": "中壢區-民權路四段",
-      "updated": "29天前更新"
+      "updated": "30天前更新"
     },
     {
       "id": "21556193",
       "link": "https://rent.591.com.tw/21556193",
       "title": "青埔A18高鐵🌈辦公室👍免仲介費",
       "room_type": "分租套房",
-      "size": "10坪",
-      "floor": "4F/4F",
-      "rent": "$12,000/月",
-      "address": "大園區-青埔路二段",
-      "updated": "29天前更新"
-    },
-    {
-      "id": "21556185",
-      "link": "https://rent.591.com.tw/21556185",
-      "title": "青埔高鐵A18🌈辦公室👍免仲介費",
-      "room_type": "獨立套房",
       "size": "10坪",
       "floor": "4F/4F",
       "rent": "$12,000/月",
