@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-08-01 12:09:14 CST",
+  "last_checked": "2026-08-01 16:14:07 CST",
   "listings": [
+    {
+      "id": "21746287",
+      "link": "https://rent.591.com.tw/21746287",
+      "title": "青埔套房出租近A19捷運站、環球購物中心步行五分鐘",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "5F/5F",
+      "rent": "$9,500/月",
+      "address": "中壢區-民權路四段",
+      "updated": "57分鐘內更新"
+    },
     {
       "id": "21732981",
       "link": "https://rent.591.com.tw/21732981",
@@ -11,7 +22,7 @@
       "floor": "4F/6F",
       "rent": "$9,500/月",
       "address": "中壢區-民權路五段",
-      "updated": "昨日更新"
+      "updated": "4小時內更新"
     },
     {
       "id": "21694977",
@@ -22,7 +33,7 @@
       "floor": "4F/5F",
       "rent": "$8,500/月",
       "address": "中壢區-高鐵北路二段",
-      "updated": "7小時內更新"
+      "updated": "11小時內更新"
     },
     {
       "id": "21614446",
@@ -33,7 +44,7 @@
       "floor": "",
       "rent": "$2,600/月",
       "address": "中壢區-青商路7號",
-      "updated": "22天前更新"
+      "updated": "23天前更新"
     }
   ]
 }
