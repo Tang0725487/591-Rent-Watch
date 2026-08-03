@@ -1,7 +1,29 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-08-02 20:13:00 CST",
+  "last_checked": "2026-08-03 12:11:38 CST",
   "listings": [
+    {
+      "id": "19180711",
+      "link": "https://rent.591.com.tw/19180711",
+      "title": "青埔高鐵,華泰outlet,和逸新光影城套房",
+      "room_type": "獨立套房",
+      "size": "11坪",
+      "floor": "2F/3F",
+      "rent": "$9,500/月",
+      "address": "大園區-皇家一街",
+      "updated": "3小時內更新"
+    },
+    {
+      "id": "21754983",
+      "link": "https://rent.591.com.tw/21754983",
+      "title": "青埔高鐵,華泰outlet,和逸新光影城套房",
+      "room_type": "獨立套房",
+      "size": "11坪",
+      "floor": "2F/3F",
+      "rent": "$9,500/月",
+      "address": "大園區-皇家一街",
+      "updated": "3小時內更新"
+    },
     {
       "id": "21746287",
       "link": "https://rent.591.com.tw/21746287",
@@ -11,7 +33,7 @@
       "floor": "5F/5F",
       "rent": "$9,500/月",
       "address": "中壢區-民權路四段",
-      "updated": "昨日更新"
+      "updated": "2天前更新"
     },
     {
       "id": "21732981",
@@ -22,7 +44,7 @@
       "floor": "4F/6F",
       "rent": "$9,500/月",
       "address": "中壢區-民權路五段",
-      "updated": "8小時內更新"
+      "updated": "24小時內更新"
     },
     {
       "id": "21694977",
@@ -33,7 +55,7 @@
       "floor": "4F/5F",
       "rent": "$8,500/月",
       "address": "中壢區-高鐵北路二段",
-      "updated": "15小時內更新"
+      "updated": "9小時內更新"
     },
     {
       "id": "21614446",
