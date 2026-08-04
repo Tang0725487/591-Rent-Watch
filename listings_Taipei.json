@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-08-04 08:17:46 CST",
+  "last_checked": "2026-08-04 12:11:11 CST",
   "listings": [
+    {
+      "id": "21764415",
+      "link": "https://rent.591.com.tw/21764415",
+      "title": "月租套房任選😃獨立陽台洗衣機1級變頻冷暖氣😉可短租可寵",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "rent": "$15,000/月",
+      "address": "內湖區-麗山街338巷",
+      "updated": "42分鐘內更新"
+    },
     {
       "id": "21762435",
       "link": "https://rent.591.com.tw/21762435",
@@ -276,17 +287,6 @@
       "rent": "$10,000/月",
       "address": "內湖區-康樂街186巷",
       "updated": "23天前更新"
-    },
-    {
-      "id": "21620483",
-      "link": "https://rent.591.com.tw/21620483",
-      "title": "超優質頂加套房~價格實惠使用空間大~小家庭也適合",
-      "room_type": "獨立套房",
-      "size": "20坪",
-      "floor": "6F/6F",
-      "rent": "$15,000/月",
-      "address": "南港區-重陽路235巷6號",
-      "updated": "13天前更新"
     },
     {
       "id": "21417698",
