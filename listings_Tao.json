@@ -1,18 +1,7 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-08-04 16:13:40 CST",
+  "last_checked": "2026-08-04 20:21:31 CST",
   "listings": [
-    {
-      "id": "21764573",
-      "link": "https://rent.591.com.tw/21764573",
-      "title": "青埔高鐵A18~興富發站前A+兩房車（附傢俱家電）",
-      "room_type": "整層住家2房2廳",
-      "size": "17.4坪",
-      "floor": "9F/13F",
-      "rent": "$2,800/月",
-      "address": "中壢區-青雲路",
-      "updated": "5小時內更新"
-    },
     {
       "id": "19180711",
       "link": "https://rent.591.com.tw/19180711",
@@ -55,7 +44,7 @@
       "floor": "4F/6F",
       "rent": "$9,500/月",
       "address": "中壢區-民權路五段",
-      "updated": "昨日更新"
+      "updated": "4小時內更新"
     },
     {
       "id": "21694977",
@@ -66,7 +55,7 @@
       "floor": "4F/5F",
       "rent": "$8,500/月",
       "address": "中壢區-高鐵北路二段",
-      "updated": "11小時內更新"
+      "updated": "15小時內更新"
     },
     {
       "id": "21614446",
