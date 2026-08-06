@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-08-06 16:16:58 CST",
+  "last_checked": "2026-08-06 20:25:27 CST",
   "listings": [
+    {
+      "id": "21781883",
+      "link": "https://rent.591.com.tw/21781883",
+      "title": "捷運南港展覽館2分【超值大空間】獨立陽台★乾溼分離★洗衣機",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "3F/5F",
+      "rent": "$15,000/月",
+      "address": "南港區-南港路一段",
+      "updated": "4小時內更新"
+    },
     {
       "id": "21770568",
       "link": "https://rent.591.com.tw/21770568",
