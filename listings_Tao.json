@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-08-06 20:25:27 CST",
+  "last_checked": "2026-08-07 08:18:00 CST",
   "listings": [
+    {
+      "id": "21777258",
+      "link": "https://rent.591.com.tw/21777258",
+      "title": "✨青塘園旁✨近捷運A19站✨美術館旁✨近桃園高鐵站✨美術館旁",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "rent": "$11,800/月",
+      "address": "中壢區-永能路",
+      "updated": "8小時內更新"
+    },
     {
       "id": "19180711",
       "link": "https://rent.591.com.tw/19180711",
@@ -44,7 +55,7 @@
       "floor": "4F/5F",
       "rent": "$8,500/月",
       "address": "中壢區-高鐵北路二段",
-      "updated": "昨日更新"
+      "updated": "3天前更新"
     },
     {
       "id": "21614446",
