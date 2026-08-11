@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-08-11 16:18:01 CST",
+  "last_checked": "2026-08-11 20:30:23 CST",
   "listings": [
+    {
+      "id": "21813904",
+      "link": "https://rent.591.com.tw/21813904",
+      "title": "✨近青埔高鐵A19/溫馨美套房/獨洗/可開伙/採光佳!!",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "rent": "$10,000/月",
+      "address": "中壢區-領航北路二段",
+      "updated": "10分鐘內更新"
+    },
     {
       "id": "21694977",
       "link": "https://rent.591.com.tw/21694977",
@@ -11,7 +22,7 @@
       "floor": "4F/5F",
       "rent": "$8,500/月",
       "address": "中壢區-高鐵北路二段",
-      "updated": "12小時內更新"
+      "updated": "16小時內更新"
     }
   ]
 }
