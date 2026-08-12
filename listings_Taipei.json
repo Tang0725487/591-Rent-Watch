@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-08-12 19:44:40 CST",
+  "last_checked": "2026-08-12 20:28:40 CST",
   "listings": [
     {
       "id": "21819437",
@@ -11,7 +11,7 @@
       "floor": "5F/5F",
       "rent": "$13,800/月",
       "address": "內湖區-金湖路",
-      "updated": "3小時內更新"
+      "updated": "4小時內更新"
     },
     {
       "id": "21819429",
@@ -22,7 +22,7 @@
       "floor": "5F/5F",
       "rent": "$13,800/月",
       "address": "內湖區-金湖路",
-      "updated": "2小時內更新"
+      "updated": "3小時內更新"
     },
     {
       "id": "21818848",
@@ -31,9 +31,9 @@
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "3F/3F",
-      "rent": "$15,000/月",
+      "rent": "$14,000/月",
       "address": "內湖區-北安路",
-      "updated": "4小時內更新"
+      "updated": "5小時內更新"
     },
     {
       "id": "21810308",
@@ -44,7 +44,7 @@
       "floor": "1F/4F",
       "rent": "$11,800/月",
       "address": "南港區-南港路三段190巷9弄",
-      "updated": "4小時內更新"
+      "updated": "28分鐘內更新"
     },
     {
       "id": "20226418",
@@ -55,7 +55,7 @@
       "floor": "5F/5F",
       "rent": "$12,990/月",
       "address": "南港區-南港路三段16巷1弄",
-      "updated": "29分鐘內更新"
+      "updated": "2小時內更新"
     },
     {
       "id": "21809279",
@@ -66,7 +66,7 @@
       "floor": "3F/4F",
       "rent": "$15,500/月",
       "address": "內湖區-文德路",
-      "updated": "4小時內更新"
+      "updated": "28分鐘內更新"
     },
     {
       "id": "21807446",
@@ -88,7 +88,7 @@
       "floor": "3F/5F",
       "rent": "$14,300/月",
       "address": "南港區-南港路三段",
-      "updated": "4小時內更新"
+      "updated": "8分鐘內更新"
     },
     {
       "id": "21803217",
@@ -132,18 +132,7 @@
       "floor": "3F/5F",
       "rent": "$15,000/月",
       "address": "南港區-南港路一段",
-      "updated": "11小時內更新"
-    },
-    {
-      "id": "21747591",
-      "link": "https://rent.591.com.tw/21747591",
-      "title": "東湖套房可開伙｜有窗｜可租補",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "4F/4F",
-      "rent": "$11,000/月",
-      "address": "內湖區-康寧路三段165巷",
-      "updated": "3天內更新"
+      "updated": "12小時內更新"
     },
     {
       "id": "21746520",
