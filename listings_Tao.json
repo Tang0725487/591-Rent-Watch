@@ -1,7 +1,29 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-08-22 08:10:05 CST",
+  "last_checked": "2026-08-22 16:12:18 CST",
   "listings": [
+    {
+      "id": "21877506",
+      "link": "https://rent.591.com.tw/21877506",
+      "title": "高鐵A18室內超值走路到IKEA機械車位",
+      "room_type": "車位",
+      "size": "8.9坪",
+      "floor": "-",
+      "rent": "$2,400/月",
+      "address": "中壢區-青心路230號",
+      "updated": "2小時內更新"
+    },
+    {
+      "id": "21876480",
+      "link": "https://rent.591.com.tw/21876480",
+      "title": "青埔高鐵全配套房.A19捷運.環球中心",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/4F",
+      "rent": "$10,500/月",
+      "address": "中壢區-領航南路一段",
+      "updated": "6小時內更新"
+    },
     {
       "id": "21873601",
       "link": "https://rent.591.com.tw/21873601",
@@ -11,7 +33,7 @@
       "floor": "4F/5F",
       "rent": "$10,000/月",
       "address": "中壢區-領航北路二段",
-      "updated": "4小時內更新"
+      "updated": "8小時內更新"
     },
     {
       "id": "21870291",
@@ -44,7 +66,7 @@
       "floor": "4F/5F",
       "rent": "$12,000/月",
       "address": "中壢區-永能路",
-      "updated": "21小時內更新"
+      "updated": "6小時內更新"
     },
     {
       "id": "21694977",
@@ -55,7 +77,7 @@
       "floor": "4F/5F",
       "rent": "$8,500/月",
       "address": "中壢區-高鐵北路二段",
-      "updated": "2小時內更新"
+      "updated": "10小時內更新"
     }
   ]
 }
