@@ -1,18 +1,7 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-08-23 08:09:15 CST",
+  "last_checked": "2026-08-23 12:09:09 CST",
   "listings": [
-    {
-      "id": "21878424",
-      "link": "https://rent.591.com.tw/21878424",
-      "title": "青埔A19捷運全配套房.環球購物中心.全聯",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "4F/4F",
-      "rent": "$11,000/月",
-      "address": "中壢區-領航南路一段",
-      "updated": "10小時內更新"
-    },
     {
       "id": "21877506",
       "link": "https://rent.591.com.tw/21877506",
@@ -22,7 +11,7 @@
       "floor": "",
       "rent": "$2,400/月",
       "address": "中壢區-青心路230號",
-      "updated": "18小時內更新"
+      "updated": "22小時內更新"
     },
     {
       "id": "21873601",
@@ -44,7 +33,7 @@
       "floor": "11F/15F",
       "rent": "$8,300/月",
       "address": "中壢區-春德路",
-      "updated": "13小時內更新"
+      "updated": "17小時內更新"
     },
     {
       "id": "21841905",
@@ -66,7 +55,7 @@
       "floor": "4F/5F",
       "rent": "$12,000/月",
       "address": "中壢區-永能路",
-      "updated": "22小時內更新"
+      "updated": "2小時內更新"
     }
   ]
 }
