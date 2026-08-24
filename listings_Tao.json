@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-08-23 20:13:05 CST",
+  "last_checked": "2026-08-24 08:18:17 CST",
   "listings": [
+    {
+      "id": "21883966",
+      "link": "https://rent.591.com.tw/21883966",
+      "title": "緊臨高鐵及捷運站",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "rent": "$8,500/月",
+      "address": "中壢區-高鐵北路二段",
+      "updated": "3小時內更新"
+    },
     {
       "id": "21877506",
       "link": "https://rent.591.com.tw/21877506",
@@ -11,7 +22,7 @@
       "floor": "",
       "rent": "$2,400/月",
       "address": "中壢區-青心路230號",
-      "updated": "昨日更新"
+      "updated": "2天前更新"
     },
     {
       "id": "21873601",
@@ -33,7 +44,7 @@
       "floor": "11F/15F",
       "rent": "$8,300/月",
       "address": "中壢區-春德路",
-      "updated": "3小時內更新"
+      "updated": "15小時內更新"
     },
     {
       "id": "21841905",
@@ -55,7 +66,7 @@
       "floor": "4F/5F",
       "rent": "$12,000/月",
       "address": "中壢區-永能路",
-      "updated": "10小時內更新"
+      "updated": "22小時內更新"
     }
   ]
 }
