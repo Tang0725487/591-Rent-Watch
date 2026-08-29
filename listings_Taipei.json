@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-08-29 16:13:00 CST",
+  "last_checked": "2026-08-29 20:15:16 CST",
   "listings": [
     {
       "id": "21914417",
@@ -221,17 +221,6 @@
       "rent": "$10,999/月",
       "address": "內湖區-內湖路一段285巷65弄",
       "updated": "5小時內更新"
-    },
-    {
-      "id": "21831799",
-      "link": "https://rent.591.com.tw/21831799",
-      "title": "可報稅✯東湖捷運哈拉影城頂加✯漂亮裝潢獨立洗衣機",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "5F/5F",
-      "rent": "$15,000/月",
-      "address": "內湖區-安康路",
-      "updated": "19小時內更新"
     },
     {
       "id": "21810308",
