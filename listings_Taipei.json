@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-09-12 12:09:27 CST",
+  "last_checked": "2026-09-12 16:09:04 CST",
   "listings": [
+    {
+      "id": "22000945",
+      "link": "https://rent.591.com.tw/22000945",
+      "title": "~中視新都會~",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "2F/5F",
+      "rent": "$13,000/月",
+      "address": "南港區-重陽路190巷6弄",
+      "updated": "18分鐘內更新"
+    },
     {
       "id": "21995060",
       "link": "https://rent.591.com.tw/21995060",
@@ -44,7 +55,7 @@
       "floor": "1F/4F",
       "rent": "$15,999/月",
       "address": "南港區-昆陽街80巷",
-      "updated": "15小時內更新"
+      "updated": "3小時內更新"
     },
     {
       "id": "21988685",
@@ -66,7 +77,7 @@
       "floor": "6F/6F",
       "rent": "$10,999/月",
       "address": "內湖區-內湖路一段285巷65弄",
-      "updated": "2小時內更新"
+      "updated": "6小時內更新"
     },
     {
       "id": "21970329",
@@ -99,7 +110,7 @@
       "floor": "4F/4F",
       "rent": "$14,999/月",
       "address": "內湖區-內湖路二段",
-      "updated": "2小時內更新"
+      "updated": "4小時內更新"
     },
     {
       "id": "17540874",
@@ -176,7 +187,7 @@
       "floor": "4F/5F",
       "rent": "$12,000/月",
       "address": "南港區-弘道街53巷9弄",
-      "updated": "4小時內更新"
+      "updated": "8小時內更新"
     },
     {
       "id": "21924055",
@@ -220,7 +231,7 @@
       "floor": "5F/5F",
       "rent": "$15,000/月",
       "address": "內湖區-文德路248號",
-      "updated": "20小時內更新"
+      "updated": "24小時內更新"
     },
     {
       "id": "21891831",
@@ -231,7 +242,7 @@
       "floor": "3F/5F",
       "rent": "$15,999/月",
       "address": "內湖區-安康路",
-      "updated": "15小時內更新"
+      "updated": "19小時內更新"
     },
     {
       "id": "21888532",
@@ -253,7 +264,7 @@
       "floor": "4F/5F",
       "rent": "$11,000/月",
       "address": "南港區-南港路三段16巷",
-      "updated": "2小時內更新"
+      "updated": "6小時內更新"
     }
   ]
 }
