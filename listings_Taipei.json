@@ -1,17 +1,17 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-09-19 12:10:07 CST",
+  "last_checked": "2026-09-19 16:10:04 CST",
   "listings": [
     {
-      "id": "22034082",
-      "link": "https://rent.591.com.tw/22034082",
-      "title": "山中傳奇😄觀景窗廚房😃實習受訓試用裝修可短租😄寵物樂園",
+      "id": "22039426",
+      "link": "https://rent.591.com.tw/22039426",
+      "title": "山中傳奇😄超大景觀窗廚房代倒垃圾😀可短租😀寵物樂園",
       "room_type": "獨立套房",
       "size": "9坪",
       "floor": "4F/5F",
       "rent": "$14,500/月",
-      "address": "內湖區-麗山街338巷",
-      "updated": "5小時內更新"
+      "address": "內湖區-內湖路一段323巷",
+      "updated": "2小時內更新"
     },
     {
       "id": "22033224",
@@ -55,7 +55,7 @@
       "floor": "5F/5F",
       "rent": "$14,800/月",
       "address": "內湖區-金龍路",
-      "updated": "4小時內更新"
+      "updated": "8小時內更新"
     },
     {
       "id": "22002797",
@@ -99,7 +99,7 @@
       "floor": "6F/6F",
       "rent": "$10,999/月",
       "address": "內湖區-內湖路一段285巷65弄",
-      "updated": "3小時內更新"
+      "updated": "7小時內更新"
     },
     {
       "id": "21965475",
@@ -143,7 +143,7 @@
       "floor": "5F/5F",
       "rent": "$14,500/月",
       "address": "內湖區-成功路二段",
-      "updated": "47分鐘內更新"
+      "updated": "5小時內更新"
     },
     {
       "id": "21941193",
@@ -176,7 +176,7 @@
       "floor": "4F/5F",
       "rent": "$12,000/月",
       "address": "南港區-弘道街53巷9弄",
-      "updated": "3小時內更新"
+      "updated": "7小時內更新"
     },
     {
       "id": "21924055",
@@ -209,7 +209,7 @@
       "floor": "5F/5F",
       "rent": "$15,000/月",
       "address": "內湖區-文德路248號",
-      "updated": "昨日更新"
+      "updated": "14分鐘內更新"
     },
     {
       "id": "21891831",
@@ -232,17 +232,6 @@
       "rent": "$12,998/月",
       "address": "內湖區-南京東路六段",
       "updated": "昨日更新"
-    },
-    {
-      "id": "20712042",
-      "link": "https://rent.591.com.tw/20712042",
-      "title": "低樓層乾淨明亮獨立套房（仲介勿擾）",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "2F/5F",
-      "rent": "$15,000/月",
-      "address": "內湖區-文德路66巷69弄26號",
-      "updated": "10分鐘內更新"
     }
   ]
 }
