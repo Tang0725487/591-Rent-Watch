@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-09-21 20:14:50 CST",
+  "last_checked": "2026-09-22 08:09:39 CST",
   "listings": [
+    {
+      "id": "22052646",
+      "link": "https://rent.591.com.tw/22052646",
+      "title": "✅西湖捷運✅內科✅採光✅獨洗✅生活機能✅台電計費✅靜巷",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "5F/5F",
+      "rent": "$12,499/月",
+      "address": "內湖區-內湖路一段285巷65弄",
+      "updated": "9分鐘內更新"
+    },
     {
       "id": "22049514",
       "link": "https://rent.591.com.tw/22049514",
