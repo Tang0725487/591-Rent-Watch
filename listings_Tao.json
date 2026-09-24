@@ -1,7 +1,29 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-09-23 20:19:35 CST",
+  "last_checked": "2026-09-24 08:20:40 CST",
   "listings": [
+    {
+      "id": "22064154",
+      "link": "https://rent.591.com.tw/22064154",
+      "title": "緊臨高鐵及捷運站",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "rent": "$8,500/月",
+      "address": "中壢區-高鐵北路二段",
+      "updated": "4小時內更新"
+    },
+    {
+      "id": "22063973",
+      "link": "https://rent.591.com.tw/22063973",
+      "title": "桃園高鐵A18、outlet旁套房（1間",
+      "room_type": "分租套房",
+      "size": "8坪",
+      "floor": "1F/4F",
+      "rent": "$9,000/月",
+      "address": "大園區-大智路41巷17號",
+      "updated": "8小時內更新"
+    },
     {
       "id": "22045326",
       "link": "https://rent.591.com.tw/22045326",
@@ -11,7 +33,7 @@
       "floor": "11F/15F",
       "rent": "$8,800/月",
       "address": "中壢區-春德路",
-      "updated": "3小時內更新"
+      "updated": "15小時內更新"
     },
     {
       "id": "22045313",
@@ -22,7 +44,7 @@
       "floor": "4F/4F",
       "rent": "$11,000/月",
       "address": "中壢區-領航南路一段",
-      "updated": "5小時內更新"
+      "updated": "12小時內更新"
     },
     {
       "id": "21912202",
