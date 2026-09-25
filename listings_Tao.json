@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-09-25 16:10:51 CST",
+  "last_checked": "2026-09-25 20:13:41 CST",
   "listings": [
+    {
+      "id": "22071333",
+      "link": "https://rent.591.com.tw/22071333",
+      "title": "華泰~高鐵~書法公園~旁精美大套房",
+      "room_type": "獨立套房",
+      "size": "9坪",
+      "floor": "1F/4F",
+      "rent": "$9,000/月",
+      "address": "大園區-大智路41巷17號",
+      "updated": "2小時內更新"
+    },
     {
       "id": "22067788",
       "link": "https://rent.591.com.tw/22067788",
@@ -11,7 +22,7 @@
       "floor": "",
       "rent": "$2,000/月",
       "address": "大園區-領航北路四段",
-      "updated": "23小時內更新"
+      "updated": "昨日更新"
     },
     {
       "id": "22064154",
@@ -22,7 +33,7 @@
       "floor": "4F/5F",
       "rent": "$8,500/月",
       "address": "中壢區-高鐵北路二段",
-      "updated": "10小時內更新"
+      "updated": "14小時內更新"
     },
     {
       "id": "22063973",
@@ -44,7 +55,7 @@
       "floor": "11F/15F",
       "rent": "$8,800/月",
       "address": "中壢區-春德路",
-      "updated": "7小時內更新"
+      "updated": "11小時內更新"
     },
     {
       "id": "21912202",
@@ -55,7 +66,7 @@
       "floor": "1F/4F",
       "rent": "$10,000/月",
       "address": "大園區-五福路780巷",
-      "updated": "28天前更新"
+      "updated": "29天前更新"
     }
   ]
 }
