@@ -1,17 +1,17 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-09-28 12:10:51 CST",
+  "last_checked": "2026-09-28 08:09:59 CST",
   "listings": [
     {
       "id": "22075772",
       "link": "https://rent.591.com.tw/22075772",
-      "title": "【屋主直租】A18高鐵3分坡平獨立大車位單面靠牆/近電梯",
+      "title": "【屋主直租】A18高鐵步行3分坡平大車位/單面靠牆/近電梯",
       "room_type": "車位平面式",
       "size": "8.9坪",
       "floor": "",
       "rent": "3,500元/月",
       "address": "中壢區-高鐵站前路",
-      "updated": "昨日更新"
+      "updated": "40分鐘內更新"
     },
     {
       "id": "22075370",
@@ -22,7 +22,7 @@
       "floor": "3F/5F",
       "rent": "11,800元/月",
       "address": "中壢區-永平街",
-      "updated": "2小時內更新"
+      "updated": "6小時內更新"
     },
     {
       "id": "22071333",
@@ -33,7 +33,7 @@
       "floor": "1F/4F",
       "rent": "9,000元/月",
       "address": "大園區-大智路41巷17號",
-      "updated": "2天前更新"
+      "updated": "2小時內更新"
     },
     {
       "id": "22067788",
@@ -55,7 +55,7 @@
       "floor": "4F/5F",
       "rent": "8,500元/月",
       "address": "中壢區-高鐵北路二段",
-      "updated": "7小時內更新"
+      "updated": "11小時內更新"
     },
     {
       "id": "22063973",
