@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-09-29 12:09:00 CST",
+  "last_checked": "2026-09-29 16:08:56 CST",
   "listings": [
+    {
+      "id": "22084797",
+      "link": "https://rent.591.com.tw/22084797",
+      "title": "9/28特價台北衛星城😄獨立陽台洗衣😃可短租😄寵物樂園",
+      "room_type": "獨立套房",
+      "size": "9坪",
+      "floor": "4F/5F",
+      "rent": "13,500元/月",
+      "address": "內湖區-麗山街338巷",
+      "updated": "2小時內更新"
+    },
     {
       "id": "22084663",
       "link": "https://rent.591.com.tw/22084663",
@@ -11,7 +22,7 @@
       "floor": "1F/5F",
       "rent": "15,000元/月",
       "address": "內湖區-內湖路一段1巷9弄",
-      "updated": "9分鐘內更新"
+      "updated": "5小時內更新"
     },
     {
       "id": "22079825",
@@ -25,17 +36,6 @@
       "updated": "9分鐘內更新"
     },
     {
-      "id": "22079120",
-      "link": "https://rent.591.com.tw/22079120",
-      "title": "台北衛星城獨立陽台洗衣😀實習受訓試用裝修😀可短租寵物樂園",
-      "room_type": "獨立套房",
-      "size": "9坪",
-      "floor": "4F/5F",
-      "rent": "14,000元/月",
-      "address": "內湖區-內湖路一段323巷",
-      "updated": "12小時內更新"
-    },
-    {
       "id": "22076567",
       "link": "https://rent.591.com.tw/22076567",
       "title": "獨立門牌》有陽台》溫馨明亮套房適單純上班族",
@@ -44,7 +44,7 @@
       "floor": "7F/9F",
       "rent": "15,500元/月",
       "address": "內湖區-康樂街136巷3弄",
-      "updated": "2天前更新"
+      "updated": "3天前更新"
     },
     {
       "id": "22072019",
@@ -55,7 +55,7 @@
       "floor": "3F/5F",
       "rent": "15,999元/月",
       "address": "內湖區-安康路",
-      "updated": "3天前更新"
+      "updated": "4小時內更新"
     },
     {
       "id": "22064446",
@@ -66,13 +66,13 @@
       "floor": "3F/5F",
       "rent": "13,488元/月",
       "address": "南港區-橫科路52巷9弄",
-      "updated": "9分鐘內更新"
+      "updated": "2小時內更新"
     },
     {
       "id": "19797278",
       "link": "https://rent.591.com.tw/19797278",
       "title": "套房步行6分至文德捷運站近內湖路忠孝東路",
-      "room_type": "獨立套房",
+      "room_type": "車位 獨立套房",
       "size": "8坪",
       "floor": "5F/5F",
       "rent": "11,500元/月",
@@ -88,24 +88,24 @@
       "floor": "5F/5F",
       "rent": "12,499元/月",
       "address": "內湖區-內湖路一段285巷65弄",
-      "updated": "9分鐘內更新"
+      "updated": "2小時內更新"
     },
     {
       "id": "22049514",
       "link": "https://rent.591.com.tw/22049514",
       "title": "免收服務費～周邊生活機能滿分交通無敵方便(限女性)",
-      "room_type": "獨立套房",
+      "room_type": "車位 有陽台 獨立套房",
       "size": "8坪",
       "floor": "5F/5F",
       "rent": "12,000元/月",
       "address": "南港區-南港路三段16巷",
-      "updated": "5小時內更新"
+      "updated": "9小時內更新"
     },
     {
       "id": "22045995",
       "link": "https://rent.591.com.tw/22045995",
       "title": "內湖路二段✨超值選擇✨無管理費/近內科",
-      "room_type": "獨立套房",
+      "room_type": "車位 獨立套房",
       "size": "8坪",
       "floor": "3F/4F",
       "rent": "12,000元/月",
@@ -138,7 +138,7 @@
       "id": "21995604",
       "link": "https://rent.591.com.tw/21995604",
       "title": "新裝潢陽光獨立套房出租",
-      "room_type": "獨立套房",
+      "room_type": "車位 獨立套房",
       "size": "10坪",
       "floor": "5F/5F",
       "rent": "10,999元/月",
@@ -154,7 +154,7 @@
       "floor": "2F/4F",
       "rent": "13,500元/月",
       "address": "內湖區-成功路二段",
-      "updated": "15小時內更新"
+      "updated": "19小時內更新"
     },
     {
       "id": "21988685",
@@ -176,7 +176,7 @@
       "floor": "6F/6F",
       "rent": "10,999元/月",
       "address": "內湖區-內湖路一段285巷65弄",
-      "updated": "2小時內更新"
+      "updated": "6小時內更新"
     },
     {
       "id": "21965475",
@@ -193,9 +193,9 @@
       "id": "21951940",
       "link": "https://rent.591.com.tw/21951940",
       "title": "康樂街獨立大套房出租（已收訂）",
-      "room_type": "獨立套房 5F/7F",
+      "room_type": "獨立套房 樓中樓",
       "size": "11坪",
-      "floor": "樓中樓",
+      "floor": "5F/7F",
       "rent": "15,000元/月",
       "address": "內湖區-康樂街186巷17號",
       "updated": "9分鐘內更新"
@@ -209,7 +209,7 @@
       "floor": "4F/4F",
       "rent": "13,999元/月",
       "address": "南港區-研究院路二段",
-      "updated": "4小時內更新"
+      "updated": "8小時內更新"
     },
     {
       "id": "21941193",
@@ -231,13 +231,13 @@
       "floor": "4F/5F",
       "rent": "11,500元/月",
       "address": "南港區-弘道街53巷9弄",
-      "updated": "3小時內更新"
+      "updated": "7小時內更新"
     },
     {
       "id": "21924055",
       "link": "https://rent.591.com.tw/21924055",
       "title": "【獨立套房】環境清幽_研究院路三段",
-      "room_type": "獨立套房",
+      "room_type": "車位 獨立套房",
       "size": "9坪",
       "floor": "2F/2F",
       "rent": "10,000元/月",
