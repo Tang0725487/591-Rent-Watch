@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-09-30 12:08:25 CST",
+  "last_checked": "2026-09-30 16:09 CST",
   "listings": [
     {
       "id": "22075772",
@@ -11,7 +11,7 @@
       "floor": "",
       "rent": "3,500元/月",
       "address": "中壢區-高鐵站前路",
-      "updated": "2天前更新"
+      "updated": "3小時內更新"
     },
     {
       "id": "22075370",
@@ -22,7 +22,7 @@
       "floor": "3F/5F",
       "rent": "11,800元/月",
       "address": "民權路A19A18捷運永能路高鐵領航青埔",
-      "updated": "12小時內更新"
+      "updated": "16小時內更新"
     },
     {
       "id": "22071333",
@@ -33,7 +33,7 @@
       "floor": "1F/4F",
       "rent": "9,000元/月",
       "address": "大園區-大智路41巷17號",
-      "updated": "4小時內更新"
+      "updated": "8小時內更新"
     },
     {
       "id": "22067788",
@@ -44,7 +44,7 @@
       "floor": "",
       "rent": "2,000元/月",
       "address": "青埔市二期",
-      "updated": "23小時內更新"
+      "updated": "昨日更新"
     },
     {
       "id": "22064154",
@@ -55,7 +55,7 @@
       "floor": "4F/5F",
       "rent": "8,500元/月",
       "address": "春雨",
-      "updated": "6小時內更新"
+      "updated": "10小時內更新"
     },
     {
       "id": "22063973",
@@ -77,7 +77,7 @@
       "floor": "11F/15F",
       "rent": "8,800元/月",
       "address": "青埔新潤A18",
-      "updated": "14小時內更新"
+      "updated": "2小時內更新"
     },
     {
       "id": "22017074",
