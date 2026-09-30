@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-09-30 08:08:51 CST",
+  "last_checked": "2026-09-30 12:08:25 CST",
   "listings": [
     {
       "id": "22075772",
@@ -21,8 +21,8 @@
       "size": "8坪",
       "floor": "3F/5F",
       "rent": "11,800元/月",
-      "address": "中壢區-永平街 (民權路A19A18捷運永能路高鐵領航青埔)",
-      "updated": "8小時內更新"
+      "address": "民權路A19A18捷運永能路高鐵領航青埔",
+      "updated": "12小時內更新"
     },
     {
       "id": "22071333",
@@ -33,7 +33,7 @@
       "floor": "1F/4F",
       "rent": "9,000元/月",
       "address": "大園區-大智路41巷17號",
-      "updated": "22小時內更新"
+      "updated": "4小時內更新"
     },
     {
       "id": "22067788",
@@ -43,8 +43,8 @@
       "size": "8坪",
       "floor": "",
       "rent": "2,000元/月",
-      "address": "大園區-領航北路四段 (青埔市二期)",
-      "updated": "19小時內更新"
+      "address": "青埔市二期",
+      "updated": "23小時內更新"
     },
     {
       "id": "22064154",
@@ -54,8 +54,8 @@
       "size": "8坪",
       "floor": "4F/5F",
       "rent": "8,500元/月",
-      "address": "中壢區-高鐵北路二段 (春雨)",
-      "updated": "2小時內更新"
+      "address": "春雨",
+      "updated": "6小時內更新"
     },
     {
       "id": "22063973",
@@ -76,8 +76,8 @@
       "size": "13坪",
       "floor": "11F/15F",
       "rent": "8,800元/月",
-      "address": "中壢區-春德路 (青埔新潤A18)",
-      "updated": "10小時內更新"
+      "address": "青埔新潤A18",
+      "updated": "14小時內更新"
     },
     {
       "id": "22017074",
@@ -87,8 +87,8 @@
       "size": "10坪",
       "floor": "1F/9F",
       "rent": "11,500元/月",
-      "address": "中壢區-榮安十二街 (環東大街)",
-      "updated": "7天前更新"
+      "address": "環東大街",
+      "updated": "8天前更新"
     }
   ]
 }
