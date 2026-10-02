@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-02 12:08 CST",
+  "last_checked": "2026-10-02 16:09 CST",
   "listings": [
+    {
+      "id": "22107773",
+      "link": "https://rent.591.com.tw/22107773",
+      "title": "華泰~高鐵~書法公園~旁精美大套房",
+      "room_type": "獨立套房",
+      "size": "9坪",
+      "floor": "1F/4F",
+      "rent": "9,000元/月",
+      "address": "大園區-大智路41巷17號",
+      "updated": "4分鐘內更新"
+    },
     {
       "id": "22102356",
       "link": "https://rent.591.com.tw/22102356",
@@ -11,7 +22,7 @@
       "floor": "4F/4F",
       "rent": "11,000元/月",
       "address": "中壢區-領航南路一段",
-      "updated": "17小時內更新"
+      "updated": "2小時內更新"
     },
     {
       "id": "22102167",
@@ -22,7 +33,7 @@
       "floor": "4F/4F",
       "rent": "11,000元/月",
       "address": "中壢區-領航南路一段",
-      "updated": "14小時內更新"
+      "updated": "19分鐘內更新"
     },
     {
       "id": "22075772",
@@ -33,7 +44,7 @@
       "floor": "",
       "rent": "3,500元/月",
       "address": "中壢區-高鐵站前路",
-      "updated": "2天前更新"
+      "updated": "3天前更新"
     },
     {
       "id": "22075370",
@@ -44,18 +55,7 @@
       "floor": "3F/5F",
       "rent": "11,800元/月",
       "address": "中壢區-永平街",
-      "updated": "10小時內更新"
-    },
-    {
-      "id": "22071333",
-      "link": "https://rent.591.com.tw/22071333",
-      "title": "華泰~高鐵~書法公園~旁精美大套房",
-      "room_type": "獨立套房",
-      "size": "9坪",
-      "floor": "1F/4F",
-      "rent": "9,000元/月",
-      "address": "大園區-大智路41巷17號",
-      "updated": "昨日更新"
+      "updated": "14小時內更新"
     },
     {
       "id": "22067788",
@@ -66,7 +66,7 @@
       "floor": "",
       "rent": "2,000元/月",
       "address": "大園區-領航北路四段",
-      "updated": "昨日更新"
+      "updated": "4小時內更新"
     },
     {
       "id": "22064154",
@@ -77,7 +77,7 @@
       "floor": "4F/5F",
       "rent": "8,500元/月",
       "address": "中壢區-高鐵北路二段",
-      "updated": "10小時內更新"
+      "updated": "14小時內更新"
     },
     {
       "id": "22063973",
@@ -110,7 +110,7 @@
       "floor": "1F/9F",
       "rent": "11,500元/月",
       "address": "中壢區-榮安十二街",
-      "updated": "22小時內更新"
+      "updated": "昨日更新"
     }
   ]
 }
