@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-03 CST (routine)",
+  "last_checked": "2026-10-03 16:08 CST (routine)",
   "listings": [
     {
       "id": "22111659",
@@ -232,17 +232,6 @@
       "rent": "15,000元/月",
       "address": "內湖區-康樂街186巷17號",
       "updated": "9分鐘內更新"
-    },
-    {
-      "id": "21946670",
-      "link": "https://rent.591.com.tw/21946670",
-      "title": "中研院【秒殺租案】變頻冷氣★洗衣機★外國友善",
-      "room_type": "獨立套房",
-      "size": "11坪",
-      "floor": "4F/4F",
-      "rent": "13,500元/月",
-      "address": "南港區-研究院路二段",
-      "updated": "21小時內更新"
     }
   ]
 }
