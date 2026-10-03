@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-03 08:08 CST",
+  "last_checked": "2026-10-03 CST (routine)",
   "listings": [
+    {
+      "id": "22111659",
+      "link": "https://rent.591.com.tw/22111659",
+      "title": "港墘捷運3分鐘+夜市三窗雙陽台冷暖變頻",
+      "room_type": "獨立套房",
+      "size": "10坪",
+      "floor": "6F/6F",
+      "rent": "11,600元/月",
+      "address": "內湖區-內湖路一段737巷",
+      "updated": "昨日更新"
+    },
     {
       "id": "22109813",
       "link": "https://rent.591.com.tw/22109813",
