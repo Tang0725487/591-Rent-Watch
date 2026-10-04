@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-03 20:08 CST (routine)",
+  "last_checked": "2026-10-04 08:10 CST (routine)",
   "listings": [
+    {
+      "id": "22115786",
+      "link": "https://rent.591.com.tw/22115786",
+      "title": "✨青埔/A19體育園區走路只要10分鐘~✅2間可選~",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "3F/5F",
+      "rent": "11,800元/月",
+      "address": "中壢區-永平街",
+      "updated": "6小時內更新"
+    },
     {
       "id": "22114017",
       "link": "https://rent.591.com.tw/22114017",
@@ -56,17 +67,6 @@
       "rent": "3,500元/月",
       "address": "中壢區-高鐵站前路",
       "updated": "4天前更新"
-    },
-    {
-      "id": "22075370",
-      "link": "https://rent.591.com.tw/22075370",
-      "title": "✨青埔/A19體育園區走路只要10分鐘~✅2間可選~",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "3F/5F",
-      "rent": "11,800元/月",
-      "address": "中壢區-永平街",
-      "updated": "11小時內更新"
     },
     {
       "id": "22067788",
