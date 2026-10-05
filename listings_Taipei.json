@@ -1,7 +1,29 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-05 16:09 CST",
+  "last_checked": "2026-10-05 20:20 CST",
   "listings": [
+    {
+      "id": "22126166",
+      "link": "https://rent.591.com.tw/22126166",
+      "title": "月租套房任選😀永吉之星台北衛星城獨立陽台洗衣可短租寵物樂園",
+      "room_type": "獨立套房",
+      "size": "9坪",
+      "floor": "4F/5F",
+      "rent": "13,500元/月",
+      "address": "內湖區-內湖路一段323巷",
+      "updated": "昨日"
+    },
+    {
+      "id": "22125971",
+      "link": "https://rent.591.com.tw/22125971",
+      "title": "✯◆新湖國小.三軍總醫院.舒適簡約套房",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "3F/5F",
+      "rent": "14,888元/月",
+      "address": "內湖區-民權東路六段",
+      "updated": "昨日"
+    },
     {
       "id": "22124090",
       "link": "https://rent.591.com.tw/22124090",
