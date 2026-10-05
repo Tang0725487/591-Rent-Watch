@@ -1,7 +1,73 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-05 08:10 CST (routine)",
+  "last_checked": "2026-10-05 CST (routine)",
   "listings": [
+    {
+      "id": "22120734",
+      "link": "https://rent.591.com.tw/22120734",
+      "title": "捷運文德、紫陽公園／全新裝潢。可寵物。可炊煮。獨立洗。台電價",
+      "room_type": "獨立套房",
+      "size": "12坪",
+      "floor": "B1/5F",
+      "rent": "13,999元/月",
+      "address": "內湖區-陽光街68巷",
+      "updated": "31分鐘內"
+    },
+    {
+      "id": "22121636",
+      "link": "https://rent.591.com.tw/22121636",
+      "title": "內科精緻套房",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "1F/3F",
+      "rent": "14,000元/月",
+      "address": "內湖區-內湖路一段339巷9號",
+      "updated": "8分鐘內"
+    },
+    {
+      "id": "22121619",
+      "link": "https://rent.591.com.tw/22121619",
+      "title": "文德🌟可寵物🐱室內車位🛵台電⚡️獨洗曬/包水網路",
+      "room_type": "獨立套房",
+      "size": "12坪",
+      "floor": "B1/5F",
+      "rent": "15,000元/月",
+      "address": "內湖區-陽光街68巷",
+      "updated": "34分鐘內"
+    },
+    {
+      "id": "22121461",
+      "link": "https://rent.591.com.tw/22121461",
+      "title": "捷運文德近內科大套房優質不二價",
+      "room_type": "獨立套房",
+      "size": "15坪",
+      "floor": "B1/5F",
+      "rent": "15,000元/月",
+      "address": "內湖區-陽光街68巷",
+      "updated": "50分鐘內"
+    },
+    {
+      "id": "22121100",
+      "link": "https://rent.591.com.tw/22121100",
+      "title": "文德捷運/紫陽公園、新裝潢、可寵/可炊/台電計價/獨立洗",
+      "room_type": "獨立套房",
+      "size": "12坪",
+      "floor": "B1/5F",
+      "rent": "13,999元/月",
+      "address": "內湖區-陽光街68巷",
+      "updated": "2小時內"
+    },
+    {
+      "id": "21485192",
+      "link": "https://rent.591.com.tw/21485192",
+      "title": "近研究院路，全新套房出租",
+      "room_type": "獨立套房",
+      "size": "10坪",
+      "floor": "1F/2F",
+      "rent": "12,000元/月",
+      "address": "南港區-研究院路三段",
+      "updated": "4分鐘內"
+    },
     {
       "id": "22119313",
       "link": "https://rent.591.com.tw/22119313",
