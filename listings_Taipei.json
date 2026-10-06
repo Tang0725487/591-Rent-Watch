@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-06 08:10 CST",
+  "last_checked": "2026-10-06 12:10 CST",
   "listings": [
+    {
+      "id": "22128958",
+      "link": "https://rent.591.com.tw/22128958",
+      "title": "近展覽館溫馨套房有專屬洗衣機請預約",
+      "room_type": "獨立套房",
+      "size": "11坪",
+      "floor": "1F/4F",
+      "rent": "11,000元/月",
+      "address": "南港區-橫科路4巷1弄3號",
+      "updated": "54分鐘內"
+    },
     {
       "id": "22126166",
       "link": "https://rent.591.com.tw/22126166",
