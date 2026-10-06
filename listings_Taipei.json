@@ -1,7 +1,29 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-06 12:10 CST",
+  "last_checked": "2026-10-06 16:09 CST",
   "listings": [
+    {
+      "id": "22131017",
+      "link": "https://rent.591.com.tw/22131017",
+      "title": "昆陽站/松山/南港火車站，2房、獨洗/有電梯/收垃圾",
+      "room_type": "獨立套房",
+      "size": "13坪",
+      "floor": "7F/7F",
+      "rent": "14,999元/月",
+      "address": "內湖區-新明路",
+      "updated": "45分鐘內更新"
+    },
+    {
+      "id": "22130480",
+      "link": "https://rent.591.com.tw/22130480",
+      "title": "西湖捷運/內科，全新裝潢套房，低樓免爬高，獨立洗衣機",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "1F/2F",
+      "rent": "13,999元/月",
+      "address": "內湖區-內湖路一段339巷",
+      "updated": "2小時內更新"
+    },
     {
       "id": "22128958",
       "link": "https://rent.591.com.tw/22128958",
