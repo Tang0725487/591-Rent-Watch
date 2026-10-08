@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-08 CST (routine run)",
+  "last_checked": "2026-10-08 08:09 UTC",
   "listings": [
     {
       "id": "22140346",
@@ -11,18 +11,18 @@
       "floor": "18F/21F",
       "rent": "11,000元/月",
       "address": "中壢區-青心路",
-      "updated": "9小時內更新"
+      "updated": "17小時內更新"
     },
     {
       "id": "22116520",
       "link": "https://rent.591.com.tw/22116520",
       "title": "竹風青庭無敵景觀高樓層好山好水好風水",
       "room_type": "車位",
-      "size": "10坪",
-      "floor": "中壢區-領航北路一段308號",
+      "size": "平面式",
+      "floor": "10坪",
       "rent": "4,000元/月",
       "address": "中壢區-領航北路一段308號",
-      "updated": "4天前更新"
+      "updated": "5天前更新"
     },
     {
       "id": "22115786",
@@ -33,7 +33,7 @@
       "floor": "3F/5F",
       "rent": "11,800元/月",
       "address": "中壢區-永平街",
-      "updated": "22小時內更新"
+      "updated": "7小時內更新"
     },
     {
       "id": "22102356",
@@ -44,7 +44,7 @@
       "floor": "4F/4F",
       "rent": "11,000元/月",
       "address": "中壢區-領航南路一段",
-      "updated": "24小時內更新"
+      "updated": "5小時內更新"
     },
     {
       "id": "22102167",
@@ -55,29 +55,29 @@
       "floor": "4F/4F",
       "rent": "11,000元/月",
       "address": "中壢區-領航南路一段",
-      "updated": "9小時內更新"
+      "updated": "2小時內更新"
     },
     {
       "id": "22075772",
       "link": "https://rent.591.com.tw/22075772",
       "title": "【屋主直租】A18高鐵步行3分坡平大車位/單面靠牆/近電梯",
       "room_type": "車位",
-      "size": "8.9坪",
-      "floor": "中壢區-高鐵站前路",
+      "size": "平面式",
+      "floor": "8.9坪",
       "rent": "3,500元/月",
       "address": "中壢區-高鐵站前路",
-      "updated": "12小時內更新"
+      "updated": "20小時內更新"
     },
     {
       "id": "22067788",
       "link": "https://rent.591.com.tw/22067788",
       "title": "青埔A17捷運站車位出租*免服務費",
       "room_type": "車位",
-      "size": "8坪",
-      "floor": "大園區-領航北路四段",
+      "size": "平面式",
+      "floor": "8坪",
       "rent": "2,000元/月",
       "address": "大園區-領航北路四段",
-      "updated": "21小時內更新"
+      "updated": "昨日更新"
     },
     {
       "id": "22064154",
@@ -88,7 +88,7 @@
       "floor": "4F/5F",
       "rent": "8,500元/月",
       "address": "中壢區-高鐵北路二段",
-      "updated": "3小時內更新"
+      "updated": "11小時內更新"
     },
     {
       "id": "22045326",
@@ -99,7 +99,7 @@
       "floor": "11F/15F",
       "rent": "8,800元/月",
       "address": "中壢區-春德路",
-      "updated": "2天前更新"
+      "updated": "3天前更新"
     },
     {
       "id": "22017074",
@@ -110,7 +110,7 @@
       "floor": "1F/9F",
       "rent": "11,500元/月",
       "address": "中壢區-榮安十二街",
-      "updated": "7天前更新"
+      "updated": "8天前更新"
     }
   ]
 }
