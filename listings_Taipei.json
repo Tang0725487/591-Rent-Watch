@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-08 08:08 CST",
+  "last_checked": "2026-10-08 CST (routine run)",
   "listings": [
+    {
+      "id": "22142336",
+      "link": "https://rent.591.com.tw/22142336",
+      "title": "內科/港墘站/獨立曬衣台/學區/公園",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "5F/5F",
+      "rent": "12,500元/月",
+      "address": "內湖區-港華街",
+      "updated": "3分鐘內更新"
+    },
     {
       "id": "22140595",
       "link": "https://rent.591.com.tw/22140595",
@@ -276,17 +287,6 @@
       "rent": "15,999元/月",
       "address": "內湖區-安康路",
       "updated": "6小時內更新"
-    },
-    {
-      "id": "22069495",
-      "link": "https://rent.591.com.tw/22069495",
-      "title": "忠孝醫院附近-優質套房-設備完善",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "5F/5F",
-      "rent": "12,000元/月",
-      "address": "南港區-東新街80巷5號",
-      "updated": "9分鐘內更新"
     },
     {
       "id": "22049514",
