@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-12 08:09 UTC",
+  "last_checked": "2026-10-12 12:20 UTC",
   "listings": [
+    {
+      "id": "22165998",
+      "link": "https://rent.591.com.tw/22165998",
+      "title": "捷運昆陽站優質套房出租",
+      "room_type": "獨立套房",
+      "size": "8.5坪",
+      "floor": "5F/5F",
+      "rent": "15,000元/月",
+      "address": "南港區-南港路三段",
+      "updated": "18分鐘內"
+    },
     {
       "id": "22159510",
       "link": "https://rent.591.com.tw/22159510",
