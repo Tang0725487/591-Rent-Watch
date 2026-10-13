@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-13 UTC",
+  "last_checked": "2026-10-13 08:09 UTC",
   "listings": [
+    {
+      "id": "22170707",
+      "link": "https://rent.591.com.tw/22170707",
+      "title": "山妍四季😀山中傳奇😄星園😊月租房型可短租😄寵物樂園",
+      "room_type": "獨立套房",
+      "size": "9坪",
+      "floor": "4F/5F",
+      "rent": "15,000元/月",
+      "address": "內湖區-內湖路一段323巷",
+      "updated": "2小時內"
+    },
     {
       "id": "22165998",
       "link": "https://rent.591.com.tw/22165998",
