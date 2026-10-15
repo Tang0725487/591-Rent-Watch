@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-15 12:00 UTC",
+  "last_checked": "2026-10-15 08:08 UTC",
   "listings": [
     {
       "id": "22179336",
@@ -111,17 +111,6 @@
       "rent": "12,500元/月",
       "address": "內湖區-港華街",
       "updated": "2天前"
-    },
-    {
-      "id": "22137836",
-      "link": "https://rent.591.com.tw/22137836",
-      "title": "文德捷運/紫陽公園、新裝潢、可寵/可炊/台電計價/獨立洗",
-      "room_type": "獨立套房",
-      "size": "12坪",
-      "floor": "B1/5F",
-      "rent": "13,999元/月",
-      "address": "內湖區-陽光街68巷",
-      "updated": "4小時內"
     },
     {
       "id": "22133699",

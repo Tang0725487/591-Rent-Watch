@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-15 12:00 UTC",
+  "last_checked": "2026-10-15 08:08 UTC",
   "listings": [
     {
       "id": "22180770",
@@ -89,17 +89,6 @@
       "rent": "8,800元/月",
       "address": "中壢區-春德路",
       "updated": "昨日"
-    },
-    {
-      "id": "22017074",
-      "link": "https://rent.591.com.tw/22017074",
-      "title": "內壢環中東路旁，近全聯！一樓社區套房～",
-      "room_type": "獨立套房",
-      "size": "10坪",
-      "floor": "1F/9F",
-      "rent": "11,500元/月",
-      "address": "中壢區-榮安十二街",
-      "updated": "14天前"
     }
   ]
 }
