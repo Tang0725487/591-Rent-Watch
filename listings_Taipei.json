@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-16 00:09 UTC",
+  "last_checked": "2026-10-16 04:09 UTC",
   "listings": [
+    {
+      "id": "22187178",
+      "link": "https://rent.591.com.tw/22187178",
+      "title": "松山車站☆凸窗可曬衣☆面河景套房",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "5F/5F",
+      "rent": "15,400元/月",
+      "address": "南港區-南港路三段314巷",
+      "updated": "2小時前"
+    },
     {
       "id": "22186688",
       "link": "https://rent.591.com.tw/22186688",
@@ -56,17 +67,6 @@
       "rent": "13,999元/月",
       "address": "內湖區-陽光街68巷",
       "updated": "2小時內"
-    },
-    {
-      "id": "22159510",
-      "link": "https://rent.591.com.tw/22159510",
-      "title": "松山車站☆凸窗可曬衣☆面河景套房",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "5F/5F",
-      "rent": "15,800元/月",
-      "address": "南港區-南港路三段314巷",
-      "updated": "3天前"
     },
     {
       "id": "22149738",
