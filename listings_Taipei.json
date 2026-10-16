@@ -1,17 +1,39 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-15 12:08 UTC",
+  "last_checked": "2026-10-16 00:09 UTC",
   "listings": [
     {
-      "id": "22177699",
-      "link": "https://rent.591.com.tw/22177699",
-      "title": "可寵套房/忠孝東六段/昆陽站/食藥署",
+      "id": "22186688",
+      "link": "https://rent.591.com.tw/22186688",
+      "title": "山妍四季😄山中傳奇😃星園😀歡迎長短租😄寵物樂園",
       "room_type": "獨立套房",
-      "size": "10坪",
-      "floor": "4F/4F",
-      "rent": "12,000元/月",
-      "address": "南港區-昆陽街142巷",
+      "size": "9坪",
+      "floor": "4F/5F",
+      "rent": "14,500元/月",
+      "address": "內湖區-麗山街338巷",
       "updated": "3小時內"
+    },
+    {
+      "id": "22186680",
+      "link": "https://rent.591.com.tw/22186680",
+      "title": "東湖捷運站全新五星含小廚房近內湖",
+      "room_type": "獨立套房",
+      "size": "9坪",
+      "floor": "5F/6F",
+      "rent": "11,000元/月",
+      "address": "內湖區-康樂街72-17巷",
+      "updated": "4小時內"
+    },
+    {
+      "id": "22185557",
+      "link": "https://rent.591.com.tw/22185557",
+      "title": "文德捷運/紫陽公園、新裝潢、可寵/可炊/台電計價/獨立洗",
+      "room_type": "獨立套房",
+      "size": "12坪",
+      "floor": "B1/5F",
+      "rent": "13,999元/月",
+      "address": "內湖區-陽光街68巷",
+      "updated": "9分鐘內"
     },
     {
       "id": "22175278",
