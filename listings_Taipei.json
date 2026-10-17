@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-17 00:10 UTC",
+  "last_checked": "2026-10-17 08:10 UTC",
   "listings": [
+    {
+      "id": "22192829",
+      "link": "https://rent.591.com.tw/22192829",
+      "title": "大湖公園綠意幽靜別墅獨立套房-限女性",
+      "room_type": "獨立套房",
+      "size": "10坪",
+      "floor": "4F/4F",
+      "rent": "14,000元/月",
+      "address": "內湖區-成功路四段294巷70弄",
+      "updated": "3小時前"
+    },
     {
       "id": "22191139",
       "link": "https://rent.591.com.tw/22191139",
