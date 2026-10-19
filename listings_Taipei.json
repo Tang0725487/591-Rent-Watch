@@ -1,7 +1,29 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-18 12:12 UTC",
+  "last_checked": "2026-10-19 00:11 UTC",
   "listings": [
+    {
+      "id": "22199574",
+      "link": "https://rent.591.com.tw/22199574",
+      "title": "西湖寧境😄山中傳奇😃星園😀歡迎長短租😄寵物樂園",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "rent": "13,500元/月",
+      "address": "內湖區-內湖路一段323巷",
+      "updated": "10小時內更新"
+    },
+    {
+      "id": "22199096",
+      "link": "https://rent.591.com.tw/22199096",
+      "title": "昆陽站8分🌻獨洗陽台／女性專屬／靜巷社區／機能強／低樓層",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "2F/4F",
+      "rent": "11,499元/月",
+      "address": "南港區-忠孝東路六段250巷1弄",
+      "updated": "12小時內更新"
+    },
     {
       "id": "22198278",
       "link": "https://rent.591.com.tw/22198278",
@@ -12,17 +34,6 @@
       "rent": "13,800元/月",
       "address": "內湖區-陽光街92巷18弄",
       "updated": "4小時內更新"
-    },
-    {
-      "id": "22197026",
-      "link": "https://rent.591.com.tw/22197026",
-      "title": "山妍四季😄山中傳奇😃星園😀歡迎長短租😄寵物樂園",
-      "room_type": "獨立套房",
-      "size": "9坪",
-      "floor": "4F/5F",
-      "rent": "14,500元/月",
-      "address": "內湖區-麗山街338巷",
-      "updated": "60分鐘內更新"
     },
     {
       "id": "22194576",
