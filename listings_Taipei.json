@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-21 08:11 UTC",
+  "last_checked": "2026-10-21 12:15 UTC",
   "listings": [
     {
       "id": "22215674",
@@ -210,17 +210,6 @@
       "address": "內湖區-大湖街166巷",
       "rent": "降2000元 較之前價格下降了11.1%元/月",
       "updated": "3小時內更新"
-    },
-    {
-      "id": "22049514",
-      "link": "https://rent.591.com.tw/22049514",
-      "title": "免收服務費～周邊生活機能滿分交通無敵方便(限女性)",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "5F/5F",
-      "address": "南港區-南港路三段16巷",
-      "rent": "降1000元 較之前價格下降了8.3%元/月",
-      "updated": "3天前更新"
     },
     {
       "id": "21485192",
