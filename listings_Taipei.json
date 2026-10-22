@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-22 08:12 UTC",
+  "last_checked": "2026-10-22 12:13 UTC",
   "listings": [
     {
       "id": "22204847",
@@ -67,17 +67,6 @@
       "address": "內湖區-陽光街92巷18弄",
       "rent": "13,800元/月",
       "updated": "4天前更新"
-    },
-    {
-      "id": "22194576",
-      "link": "https://rent.591.com.tw/22194576",
-      "title": "近捷運站公園垃圾代收（仲介勿擾）",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "5F/5F",
-      "address": "南港區-玉成街176巷15號",
-      "rent": "14,000元/月",
-      "updated": "12分鐘內更新"
     },
     {
       "id": "22192829",
@@ -157,17 +146,6 @@
       "updated": "6天前更新"
     },
     {
-      "id": "22131017",
-      "link": "https://rent.591.com.tw/22131017",
-      "title": "昆陽站/松山/南港火車站，2房、獨洗/有電梯/收垃圾",
-      "room_type": "獨立套房",
-      "size": "13坪",
-      "floor": "7F/7F",
-      "address": "內湖區-新明路",
-      "rent": "14,999元/月",
-      "updated": "23小時內更新"
-    },
-    {
       "id": "22118019",
       "link": "https://rent.591.com.tw/22118019",
       "title": "松山車站citylink~小資美大套",
@@ -188,17 +166,6 @@
       "address": "南港區-研究院路三段",
       "rent": "13,000元/月",
       "updated": "23小時內更新"
-    },
-    {
-      "id": "22090338",
-      "link": "https://rent.591.com.tw/22090338",
-      "title": "東湖捷運站步行2分鐘📍超大空間、景觀窗",
-      "room_type": "獨立套房",
-      "size": "9坪",
-      "floor": "4F/5F",
-      "address": "內湖區-安康路",
-      "rent": "13,000元/月",
-      "updated": "12分鐘內更新"
     },
     {
       "id": "22084663",
