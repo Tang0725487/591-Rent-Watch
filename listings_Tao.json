@@ -1,23 +1,23 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-21 12:15 UTC",
+  "last_checked": "2026-10-22 00:12 UTC",
   "listings": [
     {
-      "id": "22180770",
-      "link": "https://rent.591.com.tw/22180770",
+      "id": "22219194",
+      "link": "https://rent.591.com.tw/22219194",
       "title": "✨青埔/A19體育園區走路只要10分鐘~✅台電計費",
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "3F/5F",
       "address": "中壢區-永平街",
       "rent": "11,800元/月",
-      "updated": "10小時內更新"
+      "updated": "9小時內更新"
     },
     {
       "id": "22116520",
       "link": "https://rent.591.com.tw/22116520",
       "title": "竹風青庭無敵景觀高樓層好山好水好風水",
-      "room_type": "車位 (平面式)",
+      "room_type": "",
       "size": "10坪",
       "floor": "",
       "address": "中壢區-領航北路一段308號",
@@ -33,18 +33,18 @@
       "floor": "4F/4F",
       "address": "中壢區-領航南路一段",
       "rent": "11,000元/月",
-      "updated": "昨日更新"
+      "updated": "2天前更新"
     },
     {
       "id": "22075772",
       "link": "https://rent.591.com.tw/22075772",
       "title": "【屋主自租】A18高鐵3分/獨立靠牆坡平大車位/年繳優惠",
-      "room_type": "車位 (平面式)",
+      "room_type": "",
       "size": "8.9坪",
       "floor": "",
       "address": "中壢區-高鐵站前路",
       "rent": "3,000元/月",
-      "updated": "昨日更新"
+      "updated": "2天前更新"
     },
     {
       "id": "22064154",
@@ -55,7 +55,7 @@
       "floor": "4F/5F",
       "address": "中壢區-高鐵北路二段",
       "rent": "8,500元/月",
-      "updated": "16小時內更新"
+      "updated": "昨日更新"
     }
   ]
 }
