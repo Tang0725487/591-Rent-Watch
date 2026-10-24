@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-24 04:11 UTC",
+  "last_checked": "2026-10-24 UTC",
   "listings": [
+    {
+      "id": "22228342",
+      "link": "https://rent.591.com.tw/22228342",
+      "title": "近內科捷運百萬裝潢雙人套房獨立陽台洗衣機",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "6F/6F",
+      "address": "內湖區-金龍路",
+      "rent": "14,800元/月",
+      "updated": "4小時內更新"
+    },
     {
       "id": "22228220",
       "link": "https://rent.591.com.tw/22228220",
@@ -188,17 +199,6 @@
       "address": "內湖區-安康路",
       "rent": "15,999元/月",
       "updated": "4天前更新"
-    },
-    {
-      "id": "22064443",
-      "link": "https://rent.591.com.tw/22064443",
-      "title": "內湖大湖公園旁邊走路1分鐘~捷運5分鐘。大湖公園溫馨雙人.",
-      "room_type": "獨立套房",
-      "size": "12.5坪",
-      "floor": "B1/3F",
-      "address": "內湖區-大湖街166巷",
-      "rent": "16,000元/月",
-      "updated": "2小時內更新"
     },
     {
       "id": "21485192",
