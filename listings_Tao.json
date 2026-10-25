@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-25 00:11 UTC",
+  "last_checked": "2026-10-25 04:10 UTC",
   "listings": [
     {
       "id": "22229639",
@@ -11,7 +11,7 @@
       "floor": "11F/15F",
       "address": "中壢區-春德路",
       "rent": "8,800元/月",
-      "updated": "12小時內更新"
+      "updated": "16小時內更新"
     },
     {
       "id": "22227680",
@@ -22,7 +22,7 @@
       "floor": "4F/5F",
       "address": "中壢區-高鐵北路二段",
       "rent": "8,500元/月",
-      "updated": "4小時內更新"
+      "updated": "8小時內更新"
     },
     {
       "id": "22219194",
@@ -33,18 +33,18 @@
       "floor": "3F/5F",
       "address": "中壢區-永平街",
       "rent": "11,800元/月",
-      "updated": "12分鐘內更新"
+      "updated": "5小時內更新"
     },
     {
       "id": "22116520",
       "link": "https://rent.591.com.tw/22116520",
       "title": "竹風青庭無敵景觀高樓層好山好水好風水",
-      "room_type": "車位平面式",
-      "size": "10坪",
-      "floor": "",
+      "room_type": "車位",
+      "size": "平面式",
+      "floor": "10坪",
       "address": "中壢區-領航北路一段308號",
       "rent": "4,000元/月",
-      "updated": "21天前更新"
+      "updated": "22天前更新"
     },
     {
       "id": "22102356",
@@ -55,15 +55,15 @@
       "floor": "4F/4F",
       "address": "中壢區-領航南路一段",
       "rent": "11,000元/月",
-      "updated": "22小時內更新"
+      "updated": "昨日更新"
     },
     {
       "id": "22075772",
       "link": "https://rent.591.com.tw/22075772",
       "title": "【暫不帶看待簽約】A18獨立靠牆坡平大車位/年繳優惠",
-      "room_type": "車位平面式",
-      "size": "8.9坪",
-      "floor": "",
+      "room_type": "車位",
+      "size": "平面式",
+      "floor": "8.9坪",
       "address": "中壢區-高鐵站前路",
       "rent": "3,000元/月",
       "updated": "3天前更新"
