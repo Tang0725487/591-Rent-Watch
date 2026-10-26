@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-26 08:20 UTC",
+  "last_checked": "2026-10-26 12:30 UTC",
   "listings": [
+    {
+      "id": "22236761",
+      "link": "https://rent.591.com.tw/22236761",
+      "title": "降價-文德捷運全新套房洗衣機-找張瓋文租最優惠",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "address": "內湖區-陽光街92巷18弄",
+      "rent": "13,800元/月",
+      "updated": "2小時內更新"
+    },
     {
       "id": "22235943",
       "link": "https://rent.591.com.tw/22235943",
@@ -11,7 +22,7 @@
       "floor": "4F/5F",
       "address": "內湖區-麗山街338巷",
       "rent": "14,500元/月",
-      "updated": "21分鐘內更新"
+      "updated": "3小時內更新"
     },
     {
       "id": "22235059",
@@ -22,7 +33,7 @@
       "floor": "2F/4F",
       "address": "內湖區-成功路二段",
       "rent": "13,000元/月",
-      "updated": "4小時內更新"
+      "updated": "8小時內更新"
     },
     {
       "id": "22228342",
@@ -33,18 +44,18 @@
       "floor": "6F/6F",
       "address": "內湖區-金龍路",
       "rent": "14,800元/月",
-      "updated": "19分鐘內更新"
+      "updated": "5小時內更新"
     },
     {
       "id": "22204847",
       "link": "https://rent.591.com.tw/22204847",
-      "title": "置頂",
-      "room_type": "新上架租金補貼拎包入住隨時可遷入可開伙",
-      "size": "獨立套房",
-      "floor": "",
+      "title": "🌸舊庄公園🌸租屋補助🌸小資首選🌸低樓層🌸秒殺套房",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "1F/3F",
       "address": "南港區-合順街8巷7弄",
       "rent": "10,999元/月",
-      "updated": "17分鐘內更新"
+      "updated": "24分鐘內更新"
     },
     {
       "id": "22221757",
@@ -60,10 +71,10 @@
     {
       "id": "22215674",
       "link": "https://rent.591.com.tw/22215674",
-      "title": "置頂",
-      "room_type": "新上架拎包入住隨時可遷入",
-      "size": "獨立套房",
-      "floor": "",
+      "title": "🌸西湖站🌸小資首選🌸電梯大樓🌸變頻冷氣🌸機能便利",
+      "room_type": "獨立套房",
+      "size": "10坪",
+      "floor": "3F/4F",
       "address": "內湖區-內湖路一段1巷9弄",
       "rent": "14,000元/月",
       "updated": "3小時內更新"
@@ -77,18 +88,7 @@
       "floor": "2F/4F",
       "address": "南港區-忠孝東路六段250巷1弄",
       "rent": "11,499元/月",
-      "updated": "59分鐘內更新"
-    },
-    {
-      "id": "22198278",
-      "link": "https://rent.591.com.tw/22198278",
-      "title": "降價-文德捷運全新套房洗衣機-找張瓋文租最優惠",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "4F/5F",
-      "address": "內湖區-陽光街92巷18弄",
-      "rent": "13,800元/月",
-      "updated": "8天前更新"
+      "updated": "6小時內更新"
     },
     {
       "id": "22192829",
@@ -99,18 +99,18 @@
       "floor": "4F/4F",
       "address": "內湖區-成功路四段294巷70弄",
       "rent": "14,000元/月",
-      "updated": "9小時內更新"
+      "updated": "13小時內更新"
     },
     {
       "id": "22186680",
       "link": "https://rent.591.com.tw/22186680",
-      "title": "置頂",
-      "room_type": "近捷運拎包入住隨時可遷入可開伙有車位",
-      "size": "獨立套房",
-      "floor": "",
+      "title": "東湖捷運站全新五星含小廚房近內湖",
+      "room_type": "獨立套房",
+      "size": "9坪",
+      "floor": "5F/6F",
       "address": "內湖區-康樂街72巷17弄",
       "rent": "11,000元/月",
-      "updated": "17分鐘內更新"
+      "updated": "24分鐘內更新"
     },
     {
       "id": "22175278",
@@ -121,7 +121,7 @@
       "floor": "2F/4F",
       "address": "南港區-忠孝東路六段81巷",
       "rent": "10,990元/月",
-      "updated": "2天前更新"
+      "updated": "3天前更新"
     },
     {
       "id": "22142336",
@@ -132,7 +132,7 @@
       "floor": "5F/5F",
       "address": "內湖區-港華街",
       "rent": "12,500元/月",
-      "updated": "昨日更新"
+      "updated": "3小時內更新"
     },
     {
       "id": "22133699",
@@ -147,8 +147,8 @@
     },
     {
       "id": "22133592",
-      "link": "https://rent.591.com.tw/22133592",
-      "title": "AI影音講房",
+      "link": "https://rent.591.com.tw/22133592?is_ai_video=1",
+      "title": "近捷運近內科溫馨雅房找尋好主人",
       "room_type": "獨立套房",
       "size": "10坪",
       "floor": "4F/4F",
@@ -159,13 +159,13 @@
     {
       "id": "22118019",
       "link": "https://rent.591.com.tw/22118019",
-      "title": "置頂",
-      "room_type": "近捷運拎包入住近商圈隨時可遷入免管理費",
-      "size": "獨立套房",
-      "floor": "",
+      "title": "松山車站citylink~小資美大套",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "1F/4F",
       "address": "南港區-南港路三段190巷9弄",
       "rent": "11,800元/月",
-      "updated": "17分鐘內更新"
+      "updated": "24分鐘內更新"
     },
     {
       "id": "22097152",
