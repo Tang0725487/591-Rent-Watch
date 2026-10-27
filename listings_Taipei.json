@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-27 08:14 UTC",
+  "last_checked": "2026-10-27 12:13 UTC",
   "listings": [
+    {
+      "id": "22242332",
+      "link": "https://rent.591.com.tw/22242332",
+      "title": "今晚西湖寧境😄山中傳奇😃星園😀歡迎長短租😄寵物樂園",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "address": "內湖區-內湖路一段323巷",
+      "rent": "13,500元/月",
+      "updated": ""
+    },
     {
       "id": "22239037",
       "link": "https://rent.591.com.tw/22239037",
@@ -33,17 +44,6 @@
       "floor": "5F/6F",
       "address": "內湖區-康樂街72巷17弄",
       "rent": "11,000元/月",
-      "updated": ""
-    },
-    {
-      "id": "22236761",
-      "link": "https://rent.591.com.tw/22236761",
-      "title": "降價-文德捷運全新套房洗衣機-找張瓋文租最優惠優選好屋",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "4F/5F",
-      "address": "內湖區-陽光街92巷18弄",
-      "rent": "13,800元/月",
       "updated": ""
     },
     {
@@ -143,6 +143,17 @@
       "floor": "5F/5F",
       "address": "內湖區-民權東路六段90巷",
       "rent": "11,000元/月",
+      "updated": ""
+    },
+    {
+      "id": "22133592",
+      "link": "https://rent.591.com.tw/22133592",
+      "title": "近捷運近內科溫馨雅房找尋好主人",
+      "room_type": "獨立套房",
+      "size": "10坪",
+      "floor": "4F/4F",
+      "address": "內湖區-康寧路一段208號",
+      "rent": "7,600元/月",
       "updated": ""
     },
     {
