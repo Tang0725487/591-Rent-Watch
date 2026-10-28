@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-27 12:13 UTC",
+  "last_checked": "2026-10-28 00:15 UTC",
   "listings": [
+    {
+      "id": "22245029",
+      "link": "https://rent.591.com.tw/22245029",
+      "title": "中壢高鐵站、棒球場獨立陽台洗衣機電梯套房",
+      "room_type": "獨立套房",
+      "size": "10坪",
+      "floor": "2F/2F",
+      "address": "中壢區-高鐵前西二路",
+      "rent": "12,000元/月",
+      "updated": ""
+    },
     {
       "id": "22231082",
       "link": "https://rent.591.com.tw/22231082",
