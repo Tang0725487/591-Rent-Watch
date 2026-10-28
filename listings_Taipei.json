@@ -1,17 +1,28 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-28 04:11 UTC",
+  "last_checked": "2026-10-28 08:14 UTC",
   "listings": [
+    {
+      "id": "22247381",
+      "link": "https://rent.591.com.tw/22247381",
+      "title": "✅南港展館捷運走5分鐘✅雙面採光✅機能✅台電計費✅獨洗✅靜巷",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "address": "南港區-橫科路4巷3弄",
+      "rent": "11,888元/月",
+      "updated": "3小時內更新"
+    },
     {
       "id": "22242332",
       "link": "https://rent.591.com.tw/22242332",
-      "title": "今天搶捷運宅😊西湖寧境😀實習受訓裝修試用期😄可短租可寵優選好屋",
+      "title": "今天搶捷運宅😊西湖寧境😀實習受訓裝修試用期😄可短租可寵",
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "4F/5F",
       "address": "內湖區-內湖路一段323巷",
       "rent": "13,500元/月",
-      "updated": ""
+      "updated": "3小時內更新"
     },
     {
       "id": "22239037",
@@ -20,31 +31,31 @@
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "3F/12F",
-      "address": "興洋得月",
+      "address": "內湖區-新明路",
       "rent": "15,500元/月",
       "updated": ""
     },
     {
       "id": "22238632",
       "link": "https://rent.591.com.tw/22238632",
-      "title": "精選",
-      "room_type": "屋主直租近捷運新上架拎包入住近商圈有電梯",
-      "size": "獨立套房",
-      "floor": "",
-      "address": "B1/3F",
+      "title": "內湖大湖公園旁邊走路1分鐘~捷運5分鐘。大湖公園溫馨雙人.",
+      "room_type": "獨立套房",
+      "size": "12.5坪",
+      "floor": "B1/3F",
+      "address": "內湖區-大湖街166巷",
       "rent": "16,000元/月",
-      "updated": ""
+      "updated": "3小時內更新"
     },
     {
       "id": "22186680",
       "link": "https://rent.591.com.tw/22186680",
-      "title": "置頂",
-      "room_type": "近捷運新上架拎包入住隨時可遷入可開伙有車位",
-      "size": "獨立套房",
-      "floor": "",
-      "address": "5F/6F",
+      "title": "東湖捷運站全新五星含小廚房近內湖",
+      "room_type": "獨立套房",
+      "size": "9坪",
+      "floor": "5F/6F",
+      "address": "內湖區-康樂街72巷17弄",
       "rent": "11,000元/月",
-      "updated": ""
+      "updated": "15分鐘內更新"
     },
     {
       "id": "22235059",
@@ -55,12 +66,12 @@
       "floor": "2F/4F",
       "address": "內湖區-成功路二段",
       "rent": "13,000元/月",
-      "updated": ""
+      "updated": "3天前更新"
     },
     {
       "id": "22228342",
       "link": "https://rent.591.com.tw/22228342",
-      "title": "近內科捷運百萬裝潢雙人套房獨立陽台洗衣機優選好屋",
+      "title": "近內科捷運百萬裝潢雙人套房獨立陽台洗衣機",
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "6F/6F",
@@ -71,90 +82,90 @@
     {
       "id": "22204847",
       "link": "https://rent.591.com.tw/22204847",
-      "title": "置頂",
-      "room_type": "新上架租金補貼拎包入住隨時可遷入可開伙",
-      "size": "獨立套房",
-      "floor": "",
-      "address": "1F/3F",
+      "title": "🌸舊庄公園🌸租屋補助🌸小資首選🌸低樓層🌸秒殺套房",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "1F/3F",
+      "address": "南港區-合順街8巷7弄",
       "rent": "10,999元/月",
-      "updated": ""
+      "updated": "15分鐘內更新"
     },
     {
       "id": "22215674",
       "link": "https://rent.591.com.tw/22215674",
-      "title": "置頂",
-      "room_type": "拎包入住隨時可遷入",
-      "size": "獨立套房",
-      "floor": "",
-      "address": "3F/4F",
+      "title": "🌸西湖站🌸小資首選🌸電梯大樓🌸變頻冷氣🌸機能便利",
+      "room_type": "獨立套房",
+      "size": "10坪",
+      "floor": "3F/4F",
+      "address": "內湖區-內湖路一段1巷9弄",
       "rent": "14,000元/月",
-      "updated": ""
+      "updated": "3小時內更新"
     },
     {
       "id": "22199096",
       "link": "https://rent.591.com.tw/22199096",
-      "title": "昆陽站8分🌻獨洗陽台／女性專屬／靜巷社區／機能強／低樓層優選好屋",
+      "title": "昆陽站8分🌻獨洗陽台／女性專屬／靜巷社區／機能強／低樓層",
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "2F/4F",
       "address": "南港區-忠孝東路六段250巷1弄",
       "rent": "11,499元/月",
-      "updated": ""
+      "updated": "5小時內更新"
     },
     {
       "id": "22192829",
       "link": "https://rent.591.com.tw/22192829",
-      "title": "大湖公園綠意幽靜別墅獨立套房-限女性優選好屋",
+      "title": "大湖公園綠意幽靜別墅獨立套房-限女性",
       "room_type": "獨立套房",
       "size": "10坪",
       "floor": "4F/4F",
-      "address": "綠大地",
+      "address": "內湖區-成功路四段294巷70弄",
       "rent": "14,000元/月",
-      "updated": ""
+      "updated": "10小時內更新"
     },
     {
       "id": "22142336",
       "link": "https://rent.591.com.tw/22142336",
-      "title": "內科/港墘站/獨立曬衣台/學區/公園優選好屋",
+      "title": "內科/港墘站/獨立曬衣台/學區/公園",
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "5F/5F",
       "address": "內湖區-港華街",
       "rent": "12,500元/月",
-      "updated": ""
+      "updated": "18小時內更新"
     },
     {
       "id": "22133699",
       "link": "https://rent.591.com.tw/22133699",
-      "title": "套房出租近三民國中(對面靜巷)5摟頂加優選好屋",
+      "title": "套房出租近三民國中(對面靜巷)5摟頂加",
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "5F/5F",
       "address": "內湖區-民權東路六段90巷",
       "rent": "11,000元/月",
-      "updated": ""
+      "updated": "22天前更新"
     },
     {
       "id": "22133592",
       "link": "https://rent.591.com.tw/22133592?is_ai_video=1",
-      "title": "AI影音講房",
-      "room_type": "屋主直租影片賞屋近捷運拎包入住近商圈隨時可遷入",
-      "size": "獨立套房",
-      "floor": "",
-      "address": "4F/4F",
+      "title": "近捷運近內科溫馨雅房找尋好主人",
+      "room_type": "獨立套房",
+      "size": "10坪",
+      "floor": "4F/4F",
+      "address": "內湖區-康寧路一段208號",
       "rent": "7,600元/月",
-      "updated": ""
+      "updated": "12天前更新"
     },
     {
       "id": "22118019",
       "link": "https://rent.591.com.tw/22118019",
-      "title": "置頂",
-      "room_type": "近捷運拎包入住近商圈隨時可遷入免管理費",
-      "size": "獨立套房",
-      "floor": "",
-      "address": "1F/4F",
+      "title": "松山車站citylink~小資美大套",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "1F/4F",
+      "address": "南港區-南港路三段190巷9弄",
       "rent": "11,800元/月",
-      "updated": ""
+      "updated": "15分鐘內更新"
     },
     {
       "id": "22084663",
@@ -163,9 +174,9 @@
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "1F/5F",
-      "address": "大直國家",
+      "address": "內湖區-內湖路一段1巷9弄",
       "rent": "15,000元/月",
-      "updated": ""
+      "updated": "27天前更新"
     }
   ]
 }
