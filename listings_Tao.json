@@ -1,7 +1,40 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-28 00:15 UTC",
+  "last_checked": "2026-10-28 04:11 UTC",
   "listings": [
+    {
+      "id": "22245227",
+      "link": "https://rent.591.com.tw/22245227",
+      "title": "青埔高鐵A18🌈辦公室👍免仲介費優選好屋",
+      "room_type": "獨立套房",
+      "size": "10坪",
+      "floor": "3F/4F",
+      "address": "大園區-青埔路二段",
+      "rent": "12,000元/月",
+      "updated": ""
+    },
+    {
+      "id": "22245170",
+      "link": "https://rent.591.com.tw/22245170",
+      "title": "青埔捷運19站💖大套房💖限女性優選好屋",
+      "room_type": "分租套房",
+      "size": "8.2坪",
+      "floor": "4F/4F",
+      "address": "中壢區-領航南路一段",
+      "rent": "10,500元/月",
+      "updated": ""
+    },
+    {
+      "id": "22245167",
+      "link": "https://rent.591.com.tw/22245167",
+      "title": "青埔高鐵A18🌈3樓工作室👍免仲介費優選好屋",
+      "room_type": "獨立套房",
+      "size": "10坪",
+      "floor": "3F/4F",
+      "address": "大園區-青埔路二段",
+      "rent": "12,000元/月",
+      "updated": ""
+    },
     {
       "id": "22245029",
       "link": "https://rent.591.com.tw/22245029",
@@ -9,7 +42,7 @@
       "room_type": "獨立套房",
       "size": "10坪",
       "floor": "2F/2F",
-      "address": "中壢區-高鐵前西二路",
+      "address": "中壢區-高鐵站前西路二段",
       "rent": "12,000元/月",
       "updated": ""
     },
@@ -49,7 +82,7 @@
     {
       "id": "22219194",
       "link": "https://rent.591.com.tw/22219194",
-      "title": "✨青埔/A19體育園區走路只要10分鐘~✅台電計費優選好屋",
+      "title": "✨青埔/A19體育園區走路只要10分鐘~✅台電計費",
       "room_type": "獨立套房",
       "size": "8坪",
       "floor": "3F/5F",
@@ -63,7 +96,7 @@
       "title": "竹風青庭無敵景觀高樓層好山好水好風水",
       "room_type": "車位平面式",
       "size": "10坪",
-      "floor": "竹風青庭",
+      "floor": "",
       "address": "中壢區-領航北路一段308號",
       "rent": "4,000元/月",
       "updated": ""
