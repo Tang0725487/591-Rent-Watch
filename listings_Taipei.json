@@ -1,7 +1,29 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-29 04:15 UTC",
+  "last_checked": "2026-10-29 08:15 UTC",
   "listings": [
+    {
+      "id": "22253667",
+      "link": "https://rent.591.com.tw/22253667",
+      "title": "捷運.南港展覽館走路7分鐘.獨戶2F套房",
+      "room_type": "獨立套房",
+      "size": "15坪",
+      "floor": "2F/2F",
+      "address": "南港區-中南街101巷14弄",
+      "rent": "16,000元/月",
+      "updated": "2小時內更新"
+    },
+    {
+      "id": "22252691",
+      "link": "https://rent.591.com.tw/22252691",
+      "title": "今天看房律訓😊西湖寧境😀實習受訓裝修試用期😄可短租可寵",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "address": "內湖區-內湖路一段323巷",
+      "rent": "13,500元/月",
+      "updated": "4小時內更新"
+    },
     {
       "id": "22251900",
       "link": "https://rent.591.com.tw/22251900",
