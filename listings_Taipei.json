@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-29 00:14 UTC",
+  "last_checked": "2026-10-29 04:15 UTC",
   "listings": [
+    {
+      "id": "22251900",
+      "link": "https://rent.591.com.tw/22251900",
+      "title": "近內湖捷運双人美套房/獨立洗衣機双人沙發",
+      "room_type": "獨立套房",
+      "size": "9坪",
+      "floor": "5F/5F",
+      "address": "內湖區-金龍路",
+      "rent": "14,800元/月",
+      "updated": "2小時內更新"
+    },
     {
       "id": "22238632",
       "link": "https://rent.591.com.tw/22238632",
@@ -166,17 +177,6 @@
       "address": "南港區-南港路三段190巷9弄",
       "rent": "11,800元/月",
       "updated": "14分鐘內更新"
-    },
-    {
-      "id": "22084663",
-      "link": "https://rent.591.com.tw/22084663",
-      "title": "近捷運劍南站美麗華商圈套房可代收包裹信件免管理費",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "1F/5F",
-      "address": "大直國家",
-      "rent": "15,000元/月",
-      "updated": "27天前更新"
     }
   ]
 }
