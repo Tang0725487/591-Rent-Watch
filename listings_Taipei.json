@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-29 12:29 UTC",
+  "last_checked": "2026-10-30 00:12 UTC",
   "listings": [
+    {
+      "id": "22257190",
+      "link": "https://rent.591.com.tw/22257190",
+      "title": "內科園區/頂級套房/獨立洗衣機",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "2F/5F",
+      "address": "內湖區-江南街12巷",
+      "rent": "15,000元/月",
+      "updated": "12分鐘內更新"
+    },
     {
       "id": "22255204",
       "link": "https://rent.591.com.tw/22255204",
