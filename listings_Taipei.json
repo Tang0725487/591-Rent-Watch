@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-30 12:40 UTC",
+  "last_checked": "2026-10-31 00:12 UTC",
   "listings": [
+    {
+      "id": "22262795",
+      "link": "https://rent.591.com.tw/22262795",
+      "title": "【轉租】南港昆陽站兩房家庭式的【1房1衛】",
+      "room_type": "獨立套房",
+      "size": "25坪",
+      "floor": "2F/4F",
+      "address": "南港區-忠孝東路六段278巷1號",
+      "rent": "16,000元/月",
+      "updated": "8小時內"
+    },
     {
       "id": "22261802",
       "link": "https://rent.591.com.tw/22261802",
@@ -67,17 +78,6 @@
       "address": "2F/4F",
       "rent": "14,999元/月",
       "updated": "仲介簡小姐6小時內"
-    },
-    {
-      "id": "22253667",
-      "link": "https://rent.591.com.tw/22253667",
-      "title": "捷運.南港展覽館走路7分鐘.獨戶2F套房",
-      "room_type": "獨立套房",
-      "size": "15坪",
-      "floor": "2F/2F",
-      "address": "南港區-中南街101巷14弄",
-      "rent": "16,000元/月",
-      "updated": "屋主郭小姐昨日"
     },
     {
       "id": "22251900",
