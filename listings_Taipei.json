@@ -1,7 +1,29 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-10-31 08:10 UTC",
+  "last_checked": "2026-10-31 12:15 UTC",
   "listings": [
+    {
+      "id": "22266287",
+      "link": "https://rent.591.com.tw/22266287",
+      "title": "東湖站8分*開放式廚房+獨陽台+洗衣機",
+      "room_type": "獨立套房",
+      "size": "9坪",
+      "floor": "5F/5F",
+      "address": "內湖區-東湖路106巷",
+      "rent": "11,000元/月",
+      "updated": "38分鐘內"
+    },
+    {
+      "id": "22266120",
+      "link": "https://rent.591.com.tw/22266120",
+      "title": "交通便利全新整理大套房",
+      "room_type": "獨立套房",
+      "size": "10坪",
+      "floor": "3F/4F",
+      "address": "南港區-市民大道七段",
+      "rent": "16,000元/月",
+      "updated": "2小時內"
+    },
     {
       "id": "22264248",
       "link": "https://rent.591.com.tw/22264248",
