@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-11-01 08:15 UTC",
+  "last_checked": "2026-11-01 12:15 UTC",
   "listings": [
+    {
+      "id": "22270094",
+      "link": "https://rent.591.com.tw/22270094",
+      "title": "降價-文德捷運全新套房洗衣機-找張瓋文租最優惠",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "address": "內湖區-陽光街92巷18弄",
+      "rent": "13,800元/月",
+      "updated": "3小時內更新"
+    },
     {
       "id": "22268838",
       "link": "https://rent.591.com.tw/22268838",
@@ -100,17 +111,6 @@
       "address": "南港區-成福路",
       "rent": "15,000元/月",
       "updated": "9小時內更新"
-    },
-    {
-      "id": "22255204",
-      "link": "https://rent.591.com.tw/22255204",
-      "title": "捷運廣慈/奉天宮/後山埤，有陽台/獨洗，採光套房，台水台電價",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "2F/4F",
-      "address": "南港區-福德街339巷3弄",
-      "rent": "14,999元/月",
-      "updated": "8小時內更新"
     },
     {
       "id": "22251900",
