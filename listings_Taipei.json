@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-11-03 UTC (scheduled run)",
+  "last_checked": "2026-11-03 08:15 UTC (scheduled run)",
   "listings": [
+    {
+      "id": "22282676",
+      "link": "https://rent.591.com.tw/22282676",
+      "title": "可租補-文德捷運全新套房洗衣機-找張瓋文租最優惠",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "address": "內湖區-陽光街92巷18弄",
+      "rent": "13,800元/月",
+      "updated": "3小時前更新"
+    },
     {
       "id": "22199096",
       "link": "https://rent.591.com.tw/22199096",

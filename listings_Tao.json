@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-11-03 UTC (scheduled run)",
+  "last_checked": "2026-11-03 08:15 UTC (scheduled run)",
   "listings": [
     {
       "id": "22274305",
@@ -22,7 +22,7 @@
       "floor": "4F/4F",
       "address": "中壢區-領航南路一段",
       "rent": "11,000元/月",
-      "updated": "40分鐘內更新"
+      "updated": "5小時前更新"
     },
     {
       "id": "22265344",
@@ -33,7 +33,7 @@
       "floor": "3F/5F",
       "address": "中壢區-永平街",
       "rent": "11,800元/月",
-      "updated": "3小時內更新"
+      "updated": "7小時前更新"
     },
     {
       "id": "22255395",
@@ -44,7 +44,7 @@
       "floor": "4F/5F",
       "address": "中壢區-永能路",
       "rent": "9,500元/月",
-      "updated": "22小時內更新"
+      "updated": "昨日更新"
     },
     {
       "id": "22245227",
@@ -58,17 +58,6 @@
       "updated": "7天前更新"
     },
     {
-      "id": "22245170",
-      "link": "https://rent.591.com.tw/22245170",
-      "title": "青埔捷運19站💖大套房💖限女性",
-      "room_type": "分租套房",
-      "size": "8.2坪",
-      "floor": "4F/4F",
-      "address": "中壢區-領航南路一段",
-      "rent": "10,500元/月",
-      "updated": "7天前更新"
-    },
-    {
       "id": "22245029",
       "link": "https://rent.591.com.tw/22245029",
       "title": "中壢高鐵站、棒球場獨立陽台洗衣機電梯套房",
@@ -77,7 +66,7 @@
       "floor": "2F/2F",
       "address": "中壢區-高鐵站前西路二段",
       "rent": "12,000元/月",
-      "updated": "2天前更新"
+      "updated": "3天前更新"
     },
     {
       "id": "22231082",
@@ -88,7 +77,7 @@
       "floor": "4F/4F",
       "address": "中壢區-領航南路一段",
       "rent": "11,000元/月",
-      "updated": "14小時內更新"
+      "updated": "18小時前更新"
     },
     {
       "id": "22229639",
@@ -99,7 +88,7 @@
       "floor": "11F/15F",
       "address": "中壢區-春德路",
       "rent": "8,800元/月",
-      "updated": "4小時內更新"
+      "updated": "8小時前更新"
     },
     {
       "id": "22227680",
@@ -110,7 +99,7 @@
       "floor": "4F/5F",
       "address": "中壢區-高鐵北路二段",
       "rent": "8,500元/月",
-      "updated": "3小時內更新"
+      "updated": "7小時前更新"
     }
   ]
 }
