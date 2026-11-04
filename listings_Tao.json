@@ -1,17 +1,28 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-11-04 00:11 UTC (scheduled run)",
+  "last_checked": "2026-11-04 04:11 UTC (scheduled run)",
   "listings": [
+    {
+      "id": "22287997",
+      "link": "https://rent.591.com.tw/22287997",
+      "title": "✨青埔/A19體育園區走路只要10分鐘~✅台電計費",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "3F/5F",
+      "address": "中壢區-永平街",
+      "rent": "11,800元/月",
+      "updated": "2小時內更新"
+    },
     {
       "id": "22274305",
       "link": "https://rent.591.com.tw/22274305",
       "title": "桃園高鐵/捷運A18站前地下室平面車位",
       "room_type": "車位",
-      "size": "15坪",
-      "floor": "",
-      "address": "中壢區-高鐵站前路408號",
+      "size": "平面式",
+      "floor": "15坪",
+      "address": "亞昕喜徠登",
       "rent": "3,000元/月",
-      "updated": "2天前更新"
+      "updated": "3天前更新"
     },
     {
       "id": "22268031",
@@ -22,18 +33,7 @@
       "floor": "4F/4F",
       "address": "中壢區-領航南路一段",
       "rent": "11,000元/月",
-      "updated": "21小時內更新"
-    },
-    {
-      "id": "22265344",
-      "link": "https://rent.591.com.tw/22265344",
-      "title": "✨青埔/A19體育園區走路只要10分鐘~✅台電計費",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "3F/5F",
-      "address": "中壢區-永平街",
-      "rent": "11,800元/月",
-      "updated": "23小時內更新"
+      "updated": "2小時內更新"
     },
     {
       "id": "22255395",
@@ -44,7 +44,7 @@
       "floor": "4F/5F",
       "address": "中壢區-永能路",
       "rent": "9,500元/月",
-      "updated": "16小時內更新"
+      "updated": "20小時內更新"
     },
     {
       "id": "22245227",
@@ -55,7 +55,7 @@
       "floor": "3F/4F",
       "address": "大園區-青埔路二段",
       "rent": "12,000元/月",
-      "updated": "7天前更新"
+      "updated": "8天前更新"
     },
     {
       "id": "22245029",
@@ -77,7 +77,7 @@
       "floor": "4F/4F",
       "address": "中壢區-領航南路一段",
       "rent": "11,000元/月",
-      "updated": "11小時內更新"
+      "updated": "15小時內更新"
     },
     {
       "id": "22229639",
@@ -88,7 +88,7 @@
       "floor": "11F/15F",
       "address": "中壢區-春德路",
       "rent": "8,800元/月",
-      "updated": "24小時內更新"
+      "updated": ""
     },
     {
       "id": "22227680",
@@ -99,7 +99,7 @@
       "floor": "4F/5F",
       "address": "中壢區-高鐵北路二段",
       "rent": "8,500元/月",
-      "updated": "23小時內更新"
+      "updated": "2小時內更新"
     }
   ]
 }
