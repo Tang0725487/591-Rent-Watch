@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-11-05 00:11 UTC (scheduled run)",
+  "last_checked": "2026-11-05 04:12 UTC (scheduled run)",
   "listings": [
+    {
+      "id": "22293916",
+      "link": "https://rent.591.com.tw/22293916",
+      "title": "近內科捷運百萬裝潢雙人套房獨立陽台洗衣機",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "6F/6F",
+      "address": "內湖區-金龍路（距內湖140公尺）",
+      "rent": "14,800元/月",
+      "updated": "4小時內更新"
+    },
     {
       "id": "22289756",
       "link": "https://rent.591.com.tw/22289756",
