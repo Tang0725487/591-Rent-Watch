@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-11-18 08:11 UTC",
+  "last_checked": "2026-11-18 12:14 UTC",
   "listings": [
+    {
+      "id": "22372494",
+      "link": "https://rent.591.com.tw/22372494",
+      "title": "陽光街瑞光路口自租溫馨流理台套房",
+      "room_type": "獨立套房",
+      "size": "10坪",
+      "floor": "4F/5F",
+      "address": "內湖區-文德路66巷38弄",
+      "rent": "14,000",
+      "updated": "18分鐘內更新"
+    },
     {
       "id": "22367845",
       "link": "https://rent.591.com.tw/22367845",
