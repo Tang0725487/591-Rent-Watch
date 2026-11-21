@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-11-20 12:13 UTC",
+  "last_checked": "2026-11-21 00:11 UTC",
   "listings": [
+    {
+      "id": "22384210",
+      "link": "https://rent.591.com.tw/22384210",
+      "title": "南港軟體園區捷運站3分鐘近忠孝東路內湖路",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "4F/5F",
+      "address": "南港區-重陽路",
+      "rent": "13,000",
+      "updated": "11分鐘內更新"
+    },
     {
       "id": "22374895",
       "link": "https://rent.591.com.tw/22374895",
