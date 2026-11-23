@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-11-23 08:15 UTC",
+  "last_checked": "2026-11-23 12:14 UTC",
   "listings": [
     {
       "id": "22389412",
@@ -17,9 +17,9 @@
       "id": "22274305",
       "link": "https://rent.591.com.tw/22274305",
       "title": "桃園高鐵/捷運A18站前地下室平面車位",
-      "room_type": "平面式",
-      "size": "15坪",
-      "floor": "亞昕喜徠登",
+      "room_type": "車位",
+      "size": "平面式",
+      "floor": "15坪",
       "address": "中壢區-高鐵站前路408號",
       "rent": "3,000",
       "updated": "22天前更新"
@@ -44,7 +44,7 @@
       "floor": "11F/15F",
       "address": "中壢區-春德路",
       "rent": "10,800",
-      "updated": "20小時內更新"
+      "updated": "24小時內更新"
     }
   ]
 }
