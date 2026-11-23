@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-11-23 00:10 UTC",
+  "last_checked": "2026-11-23 04:10 UTC",
   "listings": [
+    {
+      "id": "22392257",
+      "link": "https://rent.591.com.tw/22392257",
+      "title": "近捷運劍南站美麗華商圈套房可代收包裹信件免管理費",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "1F/5F",
+      "address": "內湖區-內湖路一段1巷9弄",
+      "rent": "15,000",
+      "updated": "2小時內更新"
+    },
     {
       "id": "22384210",
       "link": "https://rent.591.com.tw/22384210",
