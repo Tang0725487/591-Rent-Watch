@@ -1,6 +1,6 @@
 {
   "url": "https://rent.591.com.tw/list?region=1&section=10,11&kind=2&notice=not_cover&price=$_16000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-11-26 08:10 UTC",
+  "last_checked": "2026-11-26 12:10 UTC",
   "listings": [
     {
       "id": "22410716",
@@ -89,17 +89,6 @@
       "address": "內湖區-金龍路",
       "rent": "13,800",
       "updated": "2小時內更新"
-    },
-    {
-      "id": "22374381",
-      "link": "https://rent.591.com.tw/22374381",
-      "title": "2樓近捷運737商圈安靜大套房",
-      "room_type": "獨立套房",
-      "size": "8坪",
-      "floor": "2F/5F",
-      "address": "內湖區-內湖路二段",
-      "rent": "9,500",
-      "updated": "4天前更新"
     },
     {
       "id": "22367458",
