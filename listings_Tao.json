@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-11-27 04:11 UTC",
+  "last_checked": "2026-11-27 12:11 UTC",
   "listings": [
+    {
+      "id": "22417247",
+      "link": "https://rent.591.com.tw/22417247",
+      "title": "青埔超甜套房!!!透天電梯採光房拎包入住💎💎💎",
+      "room_type": "分租套房",
+      "size": "9坪",
+      "floor": "3F/4F",
+      "address": "中壢區-民權路四段",
+      "rent": "12,000",
+      "updated": "5小時內更新"
+    },
     {
       "id": "22411541",
       "link": "https://rent.591.com.tw/22411541",
@@ -11,7 +22,7 @@
       "floor": "",
       "address": "中壢區-高鐵南路二段",
       "rent": "2,300",
-      "updated": "21小時內更新"
+      "updated": "8小時內更新"
     },
     {
       "id": "22402031",
@@ -21,8 +32,8 @@
       "size": "13坪",
       "floor": "11F/15F",
       "address": "中壢區-春德路",
-      "rent": "10,800",
-      "updated": "3小時內更新"
+      "rent": "8,800",
+      "updated": "11小時內更新"
     },
     {
       "id": "22398182",
@@ -33,7 +44,7 @@
       "floor": "4F/5F",
       "address": "中壢區-高鐵北路二段",
       "rent": "8,500",
-      "updated": "7小時內更新"
+      "updated": "15小時內更新"
     },
     {
       "id": "22274305",
