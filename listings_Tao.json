@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-11-28 08:15 UTC",
+  "last_checked": "2026-11-28 12:11 UTC",
   "listings": [
+    {
+      "id": "22421333",
+      "link": "https://rent.591.com.tw/22421333",
+      "title": "國際高中A17,A18捷運高鐵站旁套房",
+      "room_type": "獨立套房",
+      "size": "8坪",
+      "floor": "1F/3F",
+      "address": "大園區-高鐵北路二段135巷",
+      "rent": "12,000",
+      "updated": "4小時內更新"
+    },
     {
       "id": "22419746",
       "link": "https://rent.591.com.tw/22419746",
