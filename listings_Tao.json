@@ -1,7 +1,18 @@
 {
   "url": "https://rent.591.com.tw/list?region=6&metro=278&station=66330,66331,66332&notice=not_cover&price=$_12000$&acreage=8$_$&sort=posttime_desc",
-  "last_checked": "2026-11-27 12:11 UTC",
+  "last_checked": "2026-11-28 UTC",
   "listings": [
+    {
+      "id": "22419746",
+      "link": "https://rent.591.com.tw/22419746",
+      "title": "中壢高鐵站、飲水機棒球場獨立陽台洗衣機電梯套房",
+      "room_type": "獨立套房",
+      "size": "10坪",
+      "floor": "2F/2F",
+      "address": "中壢區-高鐵站前西路二段",
+      "rent": "12,000",
+      "updated": "3分鐘內更新"
+    },
     {
       "id": "22417247",
       "link": "https://rent.591.com.tw/22417247",
@@ -11,7 +22,7 @@
       "floor": "3F/4F",
       "address": "中壢區-民權路四段",
       "rent": "12,000",
-      "updated": "5小時內更新"
+      "updated": "17小時內更新"
     },
     {
       "id": "22411541",
@@ -22,7 +33,7 @@
       "floor": "",
       "address": "中壢區-高鐵南路二段",
       "rent": "2,300",
-      "updated": "8小時內更新"
+      "updated": "20小時內更新"
     },
     {
       "id": "22402031",
@@ -33,7 +44,7 @@
       "floor": "11F/15F",
       "address": "中壢區-春德路",
       "rent": "8,800",
-      "updated": "11小時內更新"
+      "updated": "23小時內更新"
     },
     {
       "id": "22398182",
@@ -44,7 +55,7 @@
       "floor": "4F/5F",
       "address": "中壢區-高鐵北路二段",
       "rent": "8,500",
-      "updated": "15小時內更新"
+      "updated": "2分鐘內更新"
     },
     {
       "id": "22274305",
